@@ -44,7 +44,7 @@ His current interests combine **technology, sustainability, and education**, fos
 
 </div>
 
----
+
 
 # 🔬 Research & Teaching Areas
 
@@ -55,7 +55,7 @@ His current interests combine **technology, sustainability, and education**, fos
 - 📈 Open science and reproducible research  
 - 🪶 Data visualisation and scientific communication  
 
----
+
 
 # 📚 Publications & Open Repositories
 
@@ -96,7 +96,7 @@ His current interests combine **technology, sustainability, and education**, fos
 
 </div>
 ```
----
+
 
 # 🌐 Connect
 
