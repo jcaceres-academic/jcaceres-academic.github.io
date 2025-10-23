@@ -1,0 +1,123 @@
+---
+title: "Jesús Cáceres Tello"
+subtitle: "Academic Portfolio"
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    theme: cosmo
+    toc: true
+    toc-title: "Contents"
+    toc-location: left
+    number-sections: false
+    page-layout: full
+    allow-html: true
+engine: quarto
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto
+---
+
+
+![](images/profile.jpg){width="160" style="border-radius:50%;float:left;margin-right:20px;margin-bottom:10px;"}
+
+
+# 👨‍🏫 About
+
+<div class="intro-block">
+
+**Jesús Cáceres Tello** is a computer scientist and educator with extensive experience in ICT, higher education, and applied research in environmental informatics and educational innovation.  
+He holds a **Diploma in Computer Science** from the University of Málaga, a **B.Sc. in Computer Engineering** from the Catholic University of Ávila, and a **Master’s degree in Educational Informatics** from the University of Alcalá. He is currently pursuing his **Ph.D. at the Faculty of Statistical Studies, Complutense University of Madrid**.
+
+Throughout his professional career, Jesús has held several positions of responsibility in public institutions.  
+At the **University of Alcalá**, he led the design, maintenance, and digital identity of the university’s web platforms.  
+At the **Carlos III Health Institute**, he contributed to European projects on **Electronic Health Records (EHR)**, **semantic interoperability**, and **telemedicine** under ISO 13606 and ISO 21090 standards.  
+He also worked at the **Spanish Ministry of Education** developing national e-learning platforms.  
+Since 2014, he has served at the **Madrid City Council**, leading technological projects and training initiatives within the Environmental Department.
+
+Jesús has been a **lecturer for more than a decade**, teaching at both undergraduate and master’s levels. He is currently part of academic innovation groups promoting open and collaborative learning and a member of the **ACM Spain SIGCSE Chapter** and the **EN13606 Association**.
+
+His current interests combine **technology, sustainability, and education**, fostering **data-driven innovation** and **scientific literacy** in the digital era.
+
+</div>
+
+---
+
+# 🔬 Research & Teaching Areas
+
+- 🌍 Environmental data modelling and air quality forecasting  
+- 🤖 Machine learning and hybrid predictive models (Prophet–LSTM, GAT–BiLSTM)  
+- 🧠 Quantum computing for education  
+- 🧩 STEM education and open pedagogy  
+- 📈 Open science and reproducible research  
+- 🪶 Data visualisation and scientific communication  
+
+---
+
+# 📚 Publications & Open Repositories
+
+```{=html}
+<div class="row g-4">
+
+  <div class="col-md-6">
+    <div class="card shadow-sm border-0 p-3 h-100">
+      <div class="card-body">
+        <h5 class="card-title">🎓 Citizen Science and STEM Education with R</h5>
+        <p class="card-text">
+          Reproducible learning from open urban air and meteorological data (Madrid, 2020–2024)
+        </p>
+        <p>
+          <a href="https://jcaceres-academico.github.io/OpenUrbanAirandMeteorological/" target="_blank" class="btn btn-primary btn-sm">📄 Article (Applied Sciences, 2025)</a>
+          <a href="https://github.com/jcaceres-academico/OpenUrbanAirandMeteorological" target="_blank" class="btn btn-info btn-sm">💻 Repository</a>
+          <a href="https://jcaceres-academico.github.io/OpenUrbanAirandMeteorological/docs/notebooks/summary.html" target="_blank" class="btn btn-success btn-sm">📘 Notebook</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="card shadow-sm border-0 p-3 h-100">
+      <div class="card-body">
+        <h5 class="card-title">🌱 Behavioural and Institutional Drivers of Green Technology Adoption</h5>
+        <p class="card-text">
+          A TAM-based framework for sustainability transitions (Frontiers in Psychology, 2025)
+        </p>
+        <p>
+          <a href="#" target="_blank" class="btn btn-primary btn-sm">📄 Article</a>
+          <a href="https://github.com/jcaceres-academico/GreenTechnologyAdoption" target="_blank" class="btn btn-info btn-sm">💻 Repository</a>
+          <a href="#" target="_blank" class="btn btn-success btn-sm">📘 README</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div>
+```
+---
+
+# 🌐 Connect
+
+```{=html}
+<div class="footer-icons">
+  <a href="https://www.linkedin.com/in/cacerestj/" target="_blank">
+    <img src="images/linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.es/citations?user=IHPgogMAAAAJ" target="_blank">
+    <img src="images/scholar.png" alt="Google Scholar">
+  </a>
+  <a href="https://orcid.org/0000-0003-0958-6688" target="_blank">
+    <img src="images/orcid.png" alt="ORCID">
+  </a>
+  <a href="https://www.researchgate.net/profile/Jesus-Tello" target="_blank">
+    <img src="images/researchgate.png" alt="ResearchGate">
+  </a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=TU_SCOPUS_ID" target="_blank">
+    <img src="images/scopus.png" alt="Scopus">
+  </a>
+</div>
+
+```
+

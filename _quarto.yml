@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - images
+
+website:
+  title: "Jesús Cáceres Tello"
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    background: "#0d2a54"
+    foreground: "#ffffff"
+    left: "© 2025 Jesús Cáceres Tello"
+    right: "Built with [Quarto](https://quarto.org/) & R — Hosted on [GitHub Pages](https://jcaceres-academic.github.io)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

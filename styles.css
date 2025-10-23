@@ -1,0 +1,102 @@
+/* === General === */
+body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  color: #222;
+  background-color: #ffffff;
+  margin: 0;
+}
+
+/* === Navbar === */
+.navbar {
+  background-color: #0d2a54 !important;
+  border-bottom: 2px solid #004b8d;
+}
+
+.navbar a,
+.navbar-brand {
+  color: #ffffff !important;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  color: #ffd24c !important;
+}
+
+/* === Headings === */
+h1, h2, h3 {
+  font-family: "Merriweather", "Georgia", serif;
+  color: #0d2a54;
+}
+
+/* === Profile Image === */
+img[alt="profile"] {
+  border-radius: 50%;
+  max-width: 160px;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+}
+
+/* === Links === */
+a {
+  color: #004b8d;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* === Footer === */
+.page-footer {
+  background-color: #0d2a54;
+  color: #ffffff;
+  font-size: 0.9em;
+  border-top: none;
+  text-align: center;
+  padding: 1.2rem 1rem;
+}
+
+.page-footer a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.page-footer a:hover {
+  color: #ffd24c;
+}
+
+/* === Footer icons === */
+
+.footer-icons {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  gap: 24px;
+  margin: 1.5rem 0;
+}
+
+.footer-icons img {
+  width: 50px;
+  opacity: 1;                /* visibilidad completa */
+  filter: none !important;   /* elimina inversión o filtros */
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.footer-icons img:hover {
+  transform: scale(1.1);
+  opacity: 0.85;
+}
+
+
+/* === Responsive === */
+@media (max-width: 768px) {
+  img[alt="profile"] {
+    float: none;
+    display: block;
+    margin: 0 auto 15px auto;
+  }
+}
+
+
