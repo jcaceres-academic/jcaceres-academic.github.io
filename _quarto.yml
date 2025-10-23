@@ -5,20 +5,19 @@ project:
     - images
 
 website:
-  title: "Jesús Cáceres Tello"
   navbar:
     background: primary
     left:
       - text: "Home"
         href: index.qmd
       - text: "Research"
-        href: research.qmd
-      - text: "Teaching"
-        href: teaching.qmd
+        href: "#research-teaching-areas"
+      - text: "Publications"
+        href: "#publications-open-repositories"
       - text: "Projects"
-        href: projects.qmd
+        href: "#projects"
       - text: "Contact"
-        href: contact.qmd
+        href: "#connect"
   page-footer:
     background: "#0d2a54"
     foreground: "#ffffff"

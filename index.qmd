@@ -70,9 +70,9 @@ His current interests combine **technology, sustainability, and education**, fos
           Reproducible learning from open urban air and meteorological data (Madrid, 2020–2024)
         </p>
         <p>
-          <a href="https://jcaceres-academico.github.io/OpenUrbanAirandMeteorological/" target="_blank" class="btn btn-primary btn-sm">📄 Article (Applied Sciences, 2025)</a>
-          <a href="https://github.com/jcaceres-academico/OpenUrbanAirandMeteorological" target="_blank" class="btn btn-info btn-sm">💻 Repository</a>
-          <a href="https://jcaceres-academico.github.io/OpenUrbanAirandMeteorological/docs/notebooks/summary.html" target="_blank" class="btn btn-success btn-sm">📘 Notebook</a>
+          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/" target="_blank" class="btn btn-primary btn-sm">📄 Article (Applied Sciences, 2025)</a>
+          <a href="https://github.com/jcaceres-academic/OpenUrbanAirandMeteorological" target="_blank" class="btn btn-info btn-sm">💻 Repository</a>
+          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/docs/notebooks/summary.html" target="_blank" class="btn btn-success btn-sm">📘 Notebook</a>
         </p>
       </div>
     </div>
@@ -87,7 +87,7 @@ His current interests combine **technology, sustainability, and education**, fos
         </p>
         <p>
           <a href="#" target="_blank" class="btn btn-primary btn-sm">📄 Article</a>
-          <a href="https://github.com/jcaceres-academico/GreenTechnologyAdoption" target="_blank" class="btn btn-info btn-sm">💻 Repository</a>
+          <a href="https://github.com/jcaceres-academic/GreenTechnologyAdoption" target="_blank" class="btn btn-info btn-sm">💻 Repository</a>
           <a href="#" target="_blank" class="btn btn-success btn-sm">📘 README</a>
         </p>
       </div>
@@ -102,16 +102,16 @@ His current interests combine **technology, sustainability, and education**, fos
 
 ```{=html}
 <div class="footer-icons">
-  <a href="https://www.linkedin.com/in/cacerestj/" target="_blank">
+  <a href="https://www.linkedin.com/in/cacerestj/" title="Linkedin" target="_blank">
     <img src="images/linkedin.png" alt="LinkedIn">
   </a>
-  <a href="https://scholar.google.es/citations?user=IHPgogMAAAAJ" target="_blank">
+  <a href="https://scholar.google.es/citations?user=IHPgogMAAAAJ" title="Google Scholar" target="_blank">
     <img src="images/scholar.png" alt="Google Scholar">
   </a>
-  <a href="https://orcid.org/0000-0003-0958-6688" target="_blank">
+  <a href="https://orcid.org/0000-0003-0958-6688" title="Orcid" target="_blank">
     <img src="images/orcid.png" alt="ORCID">
   </a>
-  <a href="https://www.researchgate.net/profile/Jesus-Tello" target="_blank">
+  <a href="https://www.researchgate.net/profile/Jesus-Tello" title="Researchgate" target="_blank">
     <img src="images/researchgate.png" alt="ResearchGate">
   </a>
   <a href="https://www.scopus.com/authid/detail.uri?authorId=TU_SCOPUS_ID" target="_blank">
