@@ -1,2 +1,17 @@
 /.quarto/
 .Rproj.user
+
+# Quarto build output
+_site/
+site_libs/
+
+# RStudio files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# System files
+.DS_Store
+Thumbs.db
+
