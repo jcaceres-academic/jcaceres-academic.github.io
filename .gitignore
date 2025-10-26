@@ -7,13 +7,10 @@
 .Ruserdata
 
 # ===========================
-# Quarto output (public site)
+# Quarto intermediate files
 # ===========================
-# Keep _site for GitHub Pages
-# _site/
-
-# Ignore Quarto freeze cache
 _freeze/
+.quarto/
 
 # ===========================
 # System files
@@ -25,3 +22,5 @@ desktop.ini
 
 
 
+
+/.quarto/
