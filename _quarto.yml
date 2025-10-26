@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: .
   resources:
-    - images
+    - images 
 
 website:
   navbar:

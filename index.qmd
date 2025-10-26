@@ -106,7 +106,7 @@ His current interests combine **technology, sustainability, and education**, fos
 </div>
 ```
 
- 
+  
 # 🧑‍🎓 Professional Profiles
 
 You can explore my professional and academic presence across several open-science platforms. These profiles provide access to publications, collaborations, datasets, and teaching activities related to environmental informatics, STEM education, and open data research.
