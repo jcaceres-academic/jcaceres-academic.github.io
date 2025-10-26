@@ -11,17 +11,29 @@ website:
     background: primary
     search: true
     page-navigation: true
+    
+   navbar:
     left:
-      - text: "Home"
+      - icon: house
+        text: "Home"
         href: index.qmd
-      - text: "Research"
+  
+      - icon: microscope
+        text: "Research"
         href: "#research-teaching-areas"
-      - text: "Publications"
+  
+      - icon: book-open
+        text: "Publications"
         href: "#publications-open-repositories"
-      - text: "Projects"
+  
+      - icon: flask
+        text: "Projects"
         href: "#projects"
-      - text: "Contact"
-        href: "#connect"
+  
+      - icon: id-badge
+        text: "Profiles"
+        href: "#professional-profiles"
+
   page-footer:
     background: "#0d2a54"
     foreground: "#ffffff"
