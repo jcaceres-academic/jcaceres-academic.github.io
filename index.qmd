@@ -21,41 +21,33 @@ execute:
   freeze: auto
 ---
 
-
 ![](images/profile.jpg){width="160" style="border-radius:50%;float:left;margin-right:20px;margin-bottom:10px;"}
-
 
 # 👨‍🏫 About
 
-<div class="intro-block">
-
-**Jesús Cáceres Tello** is a computer scientist and educator with extensive experience in ICT, higher education, and applied research in environmental informatics and educational innovation.  
+::: intro-block
+**Jesús Cáceres Tello** is a computer scientist and educator with extensive experience in ICT, higher education, and applied research in environmental informatics and educational innovation.\
 He holds a **Diploma in Computer Science** from the University of Málaga, a **B.Sc. in Computer Engineering** from the Catholic University of Ávila, and a **Master’s degree in Educational Informatics** from the University of Alcalá. He is currently pursuing his **Ph.D. at the Faculty of Statistical Studies, Complutense University of Madrid**.
 
-Throughout his professional career, Jesús has held several positions of responsibility in public institutions.  
-At the **University of Alcalá**, he led the design, maintenance, and digital identity of the university’s web platforms.  
-At the **Carlos III Health Institute**, he contributed to European projects on **Electronic Health Records (EHR)**, **semantic interoperability**, and **telemedicine** under ISO 13606 and ISO 21090 standards.  
-He also worked at the **Spanish Ministry of Education** developing national e-learning platforms.  
+Throughout his professional career, Jesús has held several positions of responsibility in public institutions.\
+At the **University of Alcalá**, he led the design, maintenance, and digital identity of the university’s web platforms.\
+At the **Carlos III Health Institute**, he contributed to European projects on **Electronic Health Records (EHR)**, **semantic interoperability**, and **telemedicine** under ISO 13606 and ISO 21090 standards.\
+He also worked at the **Spanish Ministry of Education** developing national e-learning platforms.\
 Since 2014, he has served at the **Madrid City Council**, leading technological projects and training initiatives within the Environmental Department.
 
 Jesús has been a **lecturer for more than a decade**, teaching at both undergraduate and master’s levels. He is currently part of academic innovation groups promoting open and collaborative learning and a member of the **ACM Spain SIGCSE Chapter** and the **EN13606 Association**.
 
 His current interests combine **technology, sustainability, and education**, fostering **data-driven innovation** and **scientific literacy** in the digital era.
-
-</div>
-
-
+:::
 
 # 🔬 Research & Teaching Areas
 
-- 🌍 Environmental data modelling and air quality forecasting  
-- 🤖 Machine learning and hybrid predictive models (Prophet–LSTM, GAT–BiLSTM)  
-- 🧠 Quantum computing for education  
-- 🧩 STEM education and open pedagogy  
-- 📈 Open science and reproducible research  
-- 🪶 Data visualisation and scientific communication  
-
-
+-   🌍 Environmental data modelling and air quality forecasting\
+-   🤖 Machine learning and hybrid predictive models (Prophet–LSTM, GAT–BiLSTM)\
+-   🧠 Quantum computing for education\
+-   🧩 STEM education and open pedagogy\
+-   📈 Open science and reproducible research\
+-   🪶 Data visualisation and scientific communication
 
 # 📚 Publications & Open Repositories
 
@@ -106,7 +98,6 @@ His current interests combine **technology, sustainability, and education**, fos
 </div>
 ```
 
-  
 # 🧑‍🎓 Professional Profiles
 
 You can explore my professional and academic presence across several open-science platforms. These profiles provide access to publications, collaborations, datasets, and teaching activities related to environmental informatics, STEM education, and open data research.
@@ -128,6 +119,4 @@ Connect with me on:
     <img src="images/researchgate.png" alt="ResearchGate">
   </a>
 </div>
-
 ```
-
