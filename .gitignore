@@ -1,17 +1,32 @@
-/.quarto/
-.Rproj.user
-
+# --------------------------
 # Quarto build output
+# --------------------------
 _site/
 site_libs/
+*.knit.md
+*.utf8.md
+*.log
+*.tmp
+*.bak
 
-# RStudio files
+# --------------------------
+# RStudio project files
+# --------------------------
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
-# System files
+# --------------------------
+# Quarto project config (local)
+# --------------------------
+/.quarto/
+
+# --------------------------
+# System / OS files
+# --------------------------
 .DS_Store
 Thumbs.db
+desktop.ini
+
 

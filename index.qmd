@@ -114,9 +114,6 @@ His current interests combine **technology, sustainability, and education**, fos
   <a href="https://www.researchgate.net/profile/Jesus-Tello" title="Researchgate" target="_blank">
     <img src="images/researchgate.png" alt="ResearchGate">
   </a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=TU_SCOPUS_ID" target="_blank">
-    <img src="images/scopus.png" alt="Scopus">
-  </a>
 </div>
 
 ```
