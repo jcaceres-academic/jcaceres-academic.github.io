@@ -1,33 +1,27 @@
-# --------------------------
-# Quarto build output
-# --------------------------
-_site/
-site_libs/
-*.knit.md
-*.utf8.md
-*.log
-*.tmp
-*.bak
- 
-# --------------------------
-# RStudio project files
-# --------------------------
+# ===========================
+# R / RStudio files
+# ===========================
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
-# --------------------------
-# Quarto project config (local)
-# --------------------------
-/.quarto/
+# ===========================
+# Quarto output (public site)
+# ===========================
+# Keep _site for GitHub Pages
+# _site/
 
-# --------------------------
-# System / OS files
-# --------------------------
+# Ignore Quarto freeze cache
+_freeze/
+
+# ===========================
+# System files
+# ===========================
 .DS_Store
 Thumbs.db
 desktop.ini
+
 
 
 
