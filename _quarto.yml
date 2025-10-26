@@ -5,7 +5,7 @@ project:
     - images
 
 website:
-  title: ""
+  title: " "
   navbar:
     pinned: true
     background: primary
@@ -15,19 +15,19 @@ website:
       - icon: house
         text: "Home"
         href: index.qmd
-
+        
       - icon: microscope
         text: "Research"
         href: "#research-teaching-areas"
-
+        
       - icon: book-open
         text: "Publications"
         href: "#publications-open-repositories"
-
+        
       - icon: flask
         text: "Projects"
         href: "#projects"
-
+        
       - icon: id-badge
         text: "Profiles"
         href: "#professional-profiles"
