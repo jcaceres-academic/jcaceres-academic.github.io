@@ -69,14 +69,23 @@ His current interests combine **technology, sustainability, and education**, fos
         <p class="card-text">
           Reproducible learning from open urban air and meteorological data (Madrid, 2020–2024)
         </p>
-        <p>
-          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/" target="_blank" class="btn btn-primary btn-sm">📄 Article (Applied Sciences, 2025)</a>
-          <a href="https://github.com/jcaceres-academic/OpenUrbanAirandMeteorological" target="_blank" class="btn btn-info btn-sm">💻 Repository</a>
-          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/docs/notebooks/summary.html" target="_blank" class="btn btn-success btn-sm">📘 Notebook</a>
+        <p class="mt-3">
+          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/" 
+             target="_blank" class="btn btn-dark btn-sm">🌍 Open Project Page</a>
+  
+          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/article.pdf" 
+             target="_blank" class="btn btn-primary btn-sm">📄 Article (PDF)</a>
+  
+          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/notebook.html" 
+             target="_blank" class="btn btn-success btn-sm">💻 Notebook</a>
+  
+          <a href="https://github.com/jcaceres-academic/OpenUrbanAirandMeteorological" 
+             target="_blank" class="btn btn-info btn-sm">💾 Repository</a>
         </p>
       </div>
     </div>
   </div>
+
 
   <div class="col-md-6">
     <div class="card shadow-sm border-0 p-3 h-100">
@@ -98,7 +107,11 @@ His current interests combine **technology, sustainability, and education**, fos
 ```
 
  
-# 🌐 Connect
+# 🧑‍🎓 Professional Profiles
+
+You can explore my professional and academic presence across several open-science platforms. These profiles provide access to publications, collaborations, datasets, and teaching activities related to environmental informatics, STEM education, and open data research.
+
+Connect with me on:
 
 ```{=html}
 <div class="footer-icons">
