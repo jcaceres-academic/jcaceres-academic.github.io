@@ -1,35 +1,34 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: .
   resources:
-    - images 
+    - images
 
 website:
+  title: "Jesús Cáceres Tello"
+  site-url: https://jcaceres-academic.github.io/
   navbar:
-    logo: ""
     pinned: true
     background: primary
     search: true
     page-navigation: true
-    
-   navbar:
     left:
       - icon: house
         text: "Home"
         href: index.qmd
-  
+
       - icon: microscope
         text: "Research"
         href: "#research-teaching-areas"
-  
+
       - icon: book-open
         text: "Publications"
         href: "#publications-open-repositories"
-  
+
       - icon: flask
         text: "Projects"
         href: "#projects"
-  
+
       - icon: id-badge
         text: "Profiles"
         href: "#professional-profiles"
@@ -42,7 +41,10 @@ website:
 format:
   html:
     theme: cosmo
+    toc: true
+    toc-location: left
     css: styles.css
+    smooth-scroll: true
 
 
 
