@@ -70,7 +70,7 @@ His current interests combine **technology, sustainability, and education**, fos
           Reproducible learning from open urban air and meteorological data (Madrid, 2020–2024)
         </p>
         <p class="mt-3">
-          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/" 
+          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/index.html" 
              target="_blank" class="btn btn-dark btn-sm">🌍 Open Project Page</a>
   
           <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/article.pdf" 

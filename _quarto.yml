@@ -5,8 +5,7 @@ project:
     - images
 
 website:
-  title: "Jesús Cáceres Tello"
-  site-url: https://jcaceres-academic.github.io/
+  title: ""
   navbar:
     pinned: true
     background: primary
