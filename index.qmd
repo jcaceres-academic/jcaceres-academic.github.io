@@ -57,7 +57,7 @@ His current interests combine **technology, sustainability, and education**, fos
   <div class="col-md-6">
     <div class="card shadow-sm border-0 p-3 h-100">
       <div class="card-body">
-        <h5 class="card-title">🎓 Citizen Science and STEM Education with R</h5>
+        <h5 class="card-title">🎓 Citizen Science and STEM Education with R: AI–IoT Forecasting and Reproducible Learning from Open Urban Air Quality Data</h5>
         <p class="card-text">
           Reproducible learning from open urban air and meteorological data (Madrid, 2020–2024)
         </p>
