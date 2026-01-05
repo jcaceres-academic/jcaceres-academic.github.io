@@ -71,7 +71,7 @@ His current interests combine **technology, sustainability, and education**, fos
           <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/notebook.html" 
              target="_blank" class="btn btn-success btn-sm">💻 Notebook</a>
   
-          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/" 
+          <a href="https://github.com/jcaceres-academic/OpenUrbanAirandMeteorological" 
              target="_blank" class="btn btn-info btn-sm">💾 Repository</a>
         </p>
       </div>
