@@ -69,7 +69,7 @@ His current interests combine **technology, sustainability, and education**, fos
           <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/index.html" target="_blank" class="text-dark">
             🌐 Project
           </a>
-          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/article.pdf" target="_blank" class="text-primary">
+          <a href="https://doi.org/10.3390/app152212183" target="_blank" class="text-primary">
             📄 Article
           </a>
           <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/notebook.html" target="_blank" class="text-success">
@@ -113,6 +113,34 @@ His current interests combine **technology, sustainability, and education**, fos
       </div>
     </div>
   </div>
+  <div class="col-md-6">
+  <div class="card border-0 shadow-sm p-2 h-100">
+    <div class="card-body p-2">
+      <h6 class="card-title mb-1">
+        🧠 <strong>Quantum Computing in Data Science and STEM Education</strong>
+      </h6>
+      <p class="card-text small text-muted mb-2">
+        Bibliometric mapping and pedagogical analysis of quantum computing tools  
+        <em>(Computers, 2025)</em>
+      </p>
+
+      <div class="d-flex flex-wrap gap-3 small">
+        <a href="https://jcaceres-academic.github.io/quantum-computing-stem-education/index.html" target="_blank" class="text-dark">
+          🌐 Project
+        </a>
+        <a href="https://doi.org/10.3390/computers14060235" target="_blank" class="text-primary">
+          📄 Article
+        </a>
+        <a href="https://jcaceres-academic.github.io/quantum-computing-stem-education/scripts.html" target="_blank" class="text-warning">
+          🧪 Analysis Scripts
+        </a>
+        <a href="https://github.com/jcaceres-academic/quantum-computing-stem-education" target="_blank" class="text-secondary">
+          💾 Repository
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 
   <div class="col-md-6">
     <div class="card border-0 shadow-sm p-2 h-100">
