@@ -52,68 +52,90 @@ His current interests combine **technology, sustainability, and education**, fos
 # 📚 Publications & Open Repositories
 
 ```{=html}
-<div class="row g-4">
+<div class="row g-3">
 
   <div class="col-md-6">
-    <div class="card shadow-sm border-0 p-3 h-100">
-      <div class="card-body">
-        <h5 class="card-title">🎓 <strong>Citizen Science and STEM Education with R</strong></h5>
-        <p class="card-text">
-          Reproducible AI–IoT forecasting and learning from open urban air and meteorological data (Applied Sciences, 2025)
+    <div class="card border-0 shadow-sm p-2 h-100">
+      <div class="card-body p-2">
+        <h6 class="card-title mb-1">
+          🎓 <strong>Citizen Science and STEM Education with R</strong>
+        </h6>
+        <p class="card-text small text-muted mb-2">
+          Reproducible AI–IoT forecasting and learning from open urban air and meteorological data  
+          <em>(Applied Sciences, 2025)</em>
         </p>
-        <p class="mt-3">
-          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/index.html" 
-             target="_blank" class="btn btn-dark btn-sm">🌐 Open Project Page</a>
-  
-          <a href=https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/article.pdf" 
-             target="_blank" class="btn btn-primary btn-sm">📄 Article (PDF)</a>
-  
-          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/notebook.html" 
-             target="_blank" class="btn btn-success btn-sm">💻 Notebook</a>
-  
-          <a href="https://github.com/jcaceres-academic/OpenUrbanAirandMeteorological" 
-             target="_blank" class="btn btn-info btn-sm">💾 Repository</a>
-        </p>
+
+        <div class="d-flex flex-wrap gap-3 small">
+          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/index.html" target="_blank" class="text-dark">
+            🌐 Project
+          </a>
+          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/article.pdf" target="_blank" class="text-primary">
+            📄 Article
+          </a>
+          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/notebook.html" target="_blank" class="text-success">
+            💻 Notebook
+          </a>
+          <a href="https://github.com/jcaceres-academic/OpenUrbanAirandMeteorological" target="_blank" class="text-secondary">
+            💾 Repository
+          </a>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="col-md-6">
-    <div class="card shadow-sm border-0 p-3 h-100">
-      <div class="card-body">
-        <h5 class="card-title">📊 <strong>Urban PM2.5 Methodology</strong></h5>
-        <p class="card-text">
+    <div class="card border-0 shadow-sm p-2 h-100">
+      <div class="card-body p-2">
+        <h6 class="card-title mb-1">
+          📊 <strong>Urban PM2.5 Methodology</strong>
+        </h6>
+        <p class="card-text small text-muted mb-2">
           Reproducible methodological pipeline for urban PM2.5 time series analysis
         </p>
-        <p class="mt-3">
-          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/index.html" 
-             target="_blank" class="btn btn-dark btn-sm">🌐 Open Project Page</a>
-  
-          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/article.pdf" 
-             target="_blank" class="btn btn-primary btn-sm">📄 Article (PDF)</a>
-  
-          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/notebook.html" 
-             target="_blank" class="btn btn-success btn-sm">💻 Notebook</a>
-  
-          <a href="https://github.com/jcaceres-academic/urban-pm25-methodology" 
-             target="_blank" class="btn btn-info btn-sm">💾 Repository</a>
-        </p>
+
+        <div class="d-flex flex-wrap gap-3 small">
+          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/index.html" target="_blank" class="text-dark">
+            🌐 Project
+          </a>
+          <a href="#" <!--https://jcaceres-academic.github.io/urban-pm25-methodology/article.pdf" target="_blank" --> class="text-primary">
+            📄 Article
+          </a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/notebook.html" target="_blank" class="text-success">
+            💻 Notebook
+          </a>
+          <a href="https://github.com/jcaceres-academic/urban-pm25-methodology" target="_blank" class="text-secondary">
+            💾 Repository
+          </a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/scripts.html"
+   target="_blank" class="text-warning">🧪 Scripts & Pipeline Validation
+          </a>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="col-md-6">
-    <div class="card shadow-sm border-0 p-3 h-100">
-      <div class="card-body">
-        <h5 class="card-title">🌱 <strong>Behavioural and Institutional Drivers of Green Technology Adoption</strong></h5>
-        <p class="card-text">
-          TAM-based framework for sustainability transitions (Frontiers in Psychology, 2026)
+    <div class="card border-0 shadow-sm p-2 h-100">
+      <div class="card-body p-2">
+        <h6 class="card-title mb-1">
+          🌱 <strong>Behavioural and Institutional Drivers of Green Technology Adoption</strong>
+        </h6>
+        <p class="card-text small text-muted mb-2">
+          TAM-based framework for sustainability transitions  
+          <em>(Frontiers in Psychology, 2026)</em>
         </p>
-        <p>
-          <a href="#" target="_blank" class="btn btn-primary btn-sm">📄 Article</a>
-          <a href="https://github.com/jcaceres-academic/GreenTechnologyAdoption" target="_blank" class="btn btn-info btn-sm">💻 Repository</a>
-          <a href="#" target="_blank" class="btn btn-success btn-sm">📘 README</a>
-        </p>
+
+        <div class="d-flex flex-wrap gap-3 small">
+          <a href="#" target="_blank" class="text-primary">
+            📄 Article
+          </a>
+          <a href="https://github.com/jcaceres-academic/GreenTechnologyAdoption" target="_blank" class="text-secondary">
+            💾 Repository
+          </a>
+          <a href="#" target="_blank" class="text-success">
+            📘 README
+          </a>
+        </div>
       </div>
     </div>
   </div>
