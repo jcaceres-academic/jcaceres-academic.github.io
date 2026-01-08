@@ -110,7 +110,7 @@ His current interests combine **technology, sustainability, and education**, fos
    target="_blank" class="text-warning">🧪 Scripts & Pipeline Validation
           </a>
         </div>
-      </div>
+      </div> 
     </div>
   </div>
   <div class="col-md-6">
