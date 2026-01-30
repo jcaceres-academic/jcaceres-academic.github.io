@@ -95,20 +95,20 @@ His current interests combine **technology, sustainability, and education**, fos
           <em>(Frontiers in Psychology, 2026)</em>
         </p>
 
-              <div class="d-flex flex-wrap gap-3 small">
-        <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/index.html" target="_blank" class="text-dark">
-          🌐 Project
-        </a>
-        <a href="https://doi.org/10.3390/computers14060235" target="_blank" class="text-primary">
-          📄 Article
-        </a>
-        <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/scripts.html" target="_blank" class="text-warning">
-          🧪 Analysis Scripts
-        </a>
-        <a href="https://github.com/jcaceres-academic/extended-tam-green-technology" target="_blank" class="text-secondary">
-          💾 Repository
-        </a>
-      </div>
+        <div class="d-flex flex-wrap gap-3 small">
+          <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/index.html" target="_blank" class="text-dark">
+            🌐 Project
+          </a>
+          <a href="https://doi.org/10.3390/computers14060235" target="_blank" class="text-primary">
+            📄 Article
+          </a>
+          <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/scripts.html" target="_blank" class="text-warning">
+            🧪 Analysis Scripts
+          </a>
+          <a href="https://github.com/jcaceres-academic/extended-tam-green-technology" target="_blank" class="text-secondary">
+            💾 Repository
+          </a>
+        </div>
       </div>
     </div>
   </div>
