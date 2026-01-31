@@ -119,7 +119,7 @@ Connect with me on:
         </p>
 
         <div class="d-flex flex-wrap gap-3 small">
-          <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/index.html" target="_blank" class="text-dark">
+          <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/about.html" target="_blank" class="text-dark">
             🌐 Project
           </a>
           <a href="https://doi.org/10.3390/computers14060235" target="_blank" class="text-primary">
