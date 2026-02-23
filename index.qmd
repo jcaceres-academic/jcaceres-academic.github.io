@@ -1,6 +1,6 @@
 ---
 title: "Jesús Cáceres Tello"
-subtitle: "Academic Portfolio"
+subtitle: "Research Profile | Data Science, Urban Sustainability & Reproducible AI"
 format:
   html:
     include-in-header:
@@ -21,68 +21,84 @@ execute:
   freeze: auto
 ---
 
-![](images/profile.jpg){width="160" style="border-radius:50%;float:left;margin-right:20px;margin-bottom:10px;"}
+![](images/profile.jpg){width="170" style="border-radius:50%;float:left;margin-right:25px;margin-bottom:15px;"}
 
-# 👨‍🏫 About
+# 🔬 Research Identity
 
 ::: intro-block
-**Jesús Cáceres Tello** is a computer scientist and educator with extensive experience in ICT, higher education, and applied research in environmental informatics and educational innovation.\
-He holds a **Diploma in Computer Science** from the University of Málaga, a **B.Sc. in Computer Engineering** from the Catholic University of Ávila, and a **Master’s degree in Educational Informatics** from the University of Alcalá. He is currently pursuing his **Ph.D. at the Faculty of Statistical Studies, Complutense University of Madrid**.
+**Urban Data Science · Imbalance-Aware Modelling · Reproducible AI Systems**
 
-Throughout his professional career, Jesús has held several positions of responsibility in public institutions.\
-At the **University of Alcalá**, he led the design, maintenance, and digital identity of the university’s web platforms.\
-At the **Carlos III Health Institute**, he contributed to European projects on **Electronic Health Records (EHR)**, **semantic interoperability**, and **telemedicine** under ISO 13606 and ISO 21090 standards.\
-He also worked at the **Spanish Ministry of Education** developing national e-learning platforms.\
-Since 2014, he has served at the **Madrid City Council**, leading technological projects and training initiatives within the Environmental Department.
+Jesús Cáceres-Tello is a researcher working at the intersection of urban sustainability, machine learning methodology, and open computational science.
 
-Jesús has been a **lecturer for more than a decade**, teaching at both undergraduate and master’s levels. He is currently part of academic innovation groups promoting open and collaborative learning and a member of the **ACM Spain SIGCSE Chapter** and the **EN13606 Association**.
+His research focuses on the design and evaluation of predictive models under real-world constraints, particularly in environments characterised by class imbalance, temporal structure, and operational limitations.
 
-His current interests combine **technology, sustainability, and education**, fostering **data-driven innovation** and **scientific literacy** in the digital era.
+Rather than prioritising algorithmic novelty, his work emphasises:
+```{=html}
+<ul>
+  <li>Methodological rigour</li>
+  <li>Time-aware validation</li>
+  <li>Performance–cost trade-off analysis</li>
+  <li>Reproducibility by design</li>
+  <li>Open science integration</li>
+</ul>
+```
 :::
 
-# 🔬 Research & Teaching Areas
+# 🎯 Research Mission
 
--   🌍 Environmental data modelling and air quality forecasting\
--   🤖 Machine learning and hybrid predictive models (Prophet–LSTM, GAT–BiLSTM)\
--   🧠 Quantum computing for education\
--   🧩 STEM education and open pedagogy\
--   📈 Open science and reproducible research\
--   🪶 Data visualisation and scientific communication
+The core objective of my research is to develop methodologically coherent AI frameworks for urban sustainability and STEM education.
 
-# 🧑‍🎓 Professional Profiles
-
-You can explore my professional and academic presence across several open-science platforms. These profiles provide access to publications, collaborations, datasets, and teaching activities related to environmental informatics, STEM education, and open data research. Connect with me on:
-
+This involves:
 ```{=html}
-<div class="footer-icons">
-  <a href="https://www.linkedin.com/in/cacerestj/" title="Linkedin" target="_blank">
-    <img src="images/linkedin.png" alt="LinkedIn">
-  </a>
-  <a href="https://scholar.google.es/citations?user=IHPgogMAAAAJ" title="Google Scholar" target="_blank">
-    <img src="images/scholar.png" alt="Google Scholar">
-  </a>
-  <a href="https://orcid.org/0000-0003-0958-6688" title="Orcid" target="_blank">
-    <img src="images/orcid.png" alt="ORCID">
-  </a>
-  <a href="https://www.researchgate.net/profile/Jesus-Tello" title="Researchgate" target="_blank">
-    <img src="images/researchgate.png" alt="ResearchGate">
-  </a>
-</div>
+<ul>
+  <li>Evaluating models under structural imbalance</li>
+  <li>Designing reproducible analytical pipelines</li>
+  <li>Integrating computational efficiency into model comparison</li>
+  <li>Linking data science with institutional decision-making</li>
+</ul>
 ```
+My work contributes to a broader research programme in applied data science for sustainable systems, currently developed within my doctoral studies at the Complutense University of Madrid.
+# 🔬 Research Areas
+
+- 🌍 Urban environmental modelling and air quality forecasting
+- ⚖️ Imbalanced learning and classification evaluation
+- 🤖 Hybrid predictive architectures (Prophet–LSTM, GAT–BiLSTM)
+- 📈 Performance–cost trade-off analysis
+- 🧩 Open science and reproducible research infrastructures
+- 🎓 AI-supported STEM education
+
+# 🏗 Research Infrastructure & Open Science
+
+All research projects are developed under a structured computational framework:
+```{=html}
+<ul>
+  <li>Git-based version control</li>
+  <li>Public repositories with DOI integration (Zenodo)</li>
+  <li>Reproducible scripts and notebooks (R / Python / Quarto)</li>
+  <li>Time-based validation strategies</li>
+  <li>Transparent performance reporting</li>
+</ul>
+```
+Each publication is accompanied by:
+```{=html}
+<ul>
+  <li>An open repository</li>
+  <li>Executable code</li>
+  <li>Structured documentation</li>
+  <li>Publicly accessible data sources</li>
+</ul>
+```
+This approach ensures traceability, transparency, and methodological consistency across projects.
 
 # 📚 Publications & Open Repositories
 
+### ⚖️ Urban PM2.5 Imbalance Evaluation Framework
 ```{=html}
-
-<div class="row g-3">
 
  <div class="col-md-6">
   <div class="card border-0 shadow-sm p-2 h-100">
     <div class="card-body p-2">
-      <h6 class="card-title mb-1">
-        🌫️ <strong>Urban PM2.5 Imbalance Evaluation Framework</strong>
-      </h6>
-      <p class="card-text small text-muted mb-2">
+      <p class="card-text medium text-muted mb-2">
         Imbalance-aware classification and performance–cost trade-off analysis  
         <em>(Manuscript under review, 2026)</em>
       </p>
@@ -104,14 +120,15 @@ You can explore my professional and academic presence across several open-scienc
     </div>
   </div>
 </div>
+```
 
+### 📊 Urban PM2.5 Methodology
+
+```{=html}
   <div class="col-md-6">
     <div class="card border-0 shadow-sm p-2 h-100">
       <div class="card-body p-2">
-        <h6 class="card-title mb-1">
-          📊 <strong>Urban PM2.5 Methodology</strong>
-        </h6>
-        <p class="card-text small text-muted mb-2">
+        <p class="card-text medium text-muted mb-2">
           Reproducible methodological pipeline for urban PM2.5 time series analysis  (Manuscript under review, 2026)
         </p>
 
@@ -135,15 +152,16 @@ You can explore my professional and academic presence across several open-scienc
       </div> 
     </div>
   </div>
+```  
   
-  
+
+### 🌱 Behavioural and Institutional Drivers of Green Technology Adoption
+
+```{=html}  
    <div class="col-md-6">
     <div class="card border-0 shadow-sm p-2 h-100">
       <div class="card-body p-2">
-        <h6 class="card-title mb-1">
-          🌱 <strong>Behavioural and Institutional Drivers of Green Technology Adoption</strong>
-        </h6>
-        <p class="card-text small text-muted mb-2">
+        <p class="card-text medium text-muted mb-2">
           TAM-based framework for sustainability transitions  
           <em>(Frontiers in Psychology, 2026)</em>
         </p>
@@ -165,15 +183,16 @@ You can explore my professional and academic presence across several open-scienc
       </div>
     </div>
   </div>
-  
+```
+
+### 🎓 Citizen Science and STEM Education with R
+
+```{=html}  
  
   <div class="col-md-6">
     <div class="card border-0 shadow-sm p-2 h-100">
       <div class="card-body p-2">
-        <h6 class="card-title mb-1">
-          🎓 <strong>Citizen Science and STEM Education with R</strong>
-        </h6>
-        <p class="card-text small text-muted mb-2">
+        <p class="card-text medium text-muted mb-2">
           Reproducible AI–IoT forecasting and learning from open urban air and meteorological data  
           <em>(Applied Sciences, 2025)</em>
         </p>
@@ -195,15 +214,15 @@ You can explore my professional and academic presence across several open-scienc
       </div>
     </div>
   </div>
-  
+```  
 
+### 🧠 Quantum Computing in Data Science and STEM Education
+
+```{=html}
  <div class="col-md-6">
   <div class="card border-0 shadow-sm p-2 h-100">
     <div class="card-body p-2">
-      <h6 class="card-title mb-1">
-        🧠 <strong>Quantum Computing in Data Science and STEM Education</strong>
-      </h6>
-      <p class="card-text small text-muted mb-2">
+      <p class="card-text medium text-muted mb-2">
         Bibliometric mapping and pedagogical analysis of quantum computing tools  
         <em>(Computers, 2025)</em>
       </p>
@@ -225,8 +244,68 @@ You can explore my professional and academic presence across several open-scienc
     </div>
   </div>
 </div>
+```
+
+# 🎓 Academic Background & Professional Experience
+
+Jesús Cáceres-Tello holds:
+```{=html}
+  <ul>
+    <li>Diploma in Computer Science: University of Málaga</li>
+    <li>B.Sc. in Computer Engineering: Catholic University of Ávila</li>
+    <li>Master’s Degree in Educational Informatics: University of Alcalá</li>
+    <li>He is currently pursuing a <strong>Ph.D. in Statistical Studies at the Complutense University of Madrid</strong>, developing methodological frameworks for urban sustainability analytics.</li>
+  </ul>
+<p>His professional experience includes:</p>
+  <ul>
+    <li>Leadership in university digital infrastructure systems</li>
+    <li>Participation in European Electronic Health Record interoperability projects (ISO 13606, ISO 21090)</li>
+    <li>Development of national e-learning platforms</li>
+    <li>Public-sector environmental technology projects at Madrid City Council</li>
+  </ul>
+```
+He has been teaching in higher education for over a decade and actively contributes to academic innovation initiatives.
+
+# 🧑‍🎓 Research Profiles
+
+You can explore my professional and academic presence across several open-science platforms. These profiles provide access to publications, collaborations, datasets, and teaching activities related to environmental informatics, STEM education, and open data research. Connect with me on:
+
+```{=html}
+<div class="footer-icons">
+  <a href="https://www.linkedin.com/in/cacerestj/" title="Linkedin" target="_blank">
+    <img src="images/linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.es/citations?user=IHPgogMAAAAJ" title="Google Scholar" target="_blank">
+    <img src="images/scholar.png" alt="Google Scholar">
+  </a>
+  <a href="https://orcid.org/0000-0003-0958-6688" title="Orcid" target="_blank">
+    <img src="images/orcid.png" alt="ORCID">
+  </a>
+  <a href="https://www.researchgate.net/profile/Jesus-Tello" title="Researchgate" target="_blank">
+    <img src="images/researchgate.png" alt="ResearchGate">
+  </a>
+</div>
+<div class="row g-3">
+```
+
+# 🤝 Collaboration
+
+I welcome collaboration in:
+```{=html}
+<ul>
+  <li>Urban sustainability analytics</li>
+  <li>Methodological AI evaluation</li>
+  <li>Reproducible research frameworks</li>
+  <li>Hybrid predictive systems</li>
+  <li>AI-enhanced STEM education</li>
+</ul>
 
 
+
+<div class="closing-line">Current research is developed within a compendium-based doctoral thesis integrating urban sustainability, methodological AI, and open science frameworks.</div>
+```
+
+```{=html}
 </div>
 ```
 

@@ -23,6 +23,21 @@ body {
   color: #ffd24c !important;
 }
 
+/* Increase TOC width in full layout */
+#quarto-sidebar.sidebar {
+  width: 380px;
+  max-width: 380px;
+}
+
+/* Shift sidebar slightly left */
+#quarto-sidebar {
+  margin-left: -50px;
+}
+
+main.content {
+  padding-left: 60px;
+}
+
 /* === Headings === */
 h1, h2, h3 {
   font-family: "Merriweather", "Georgia", serif;
@@ -89,6 +104,12 @@ a:hover {
   opacity: 0.85;
 }
 
+.closing-line {
+  text-align: center;
+  font-style: italic;
+  margin-top: 2rem;
+  opacity: 0.85;
+}
 
 /* === Responsive === */
 @media (max-width: 768px) {

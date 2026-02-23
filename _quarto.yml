@@ -5,33 +5,42 @@ project:
     - images
 
 website:
-  title: " "
+  title: "Jesús Cáceres-Tello"
+
   navbar:
     pinned: true
     background: primary
     search: true
     page-navigation: true
+
     left:
       - icon: house
         text: "Home"
         href: index.qmd
-        
-      - icon: microscope
+
+      - icon: diagram-3
         text: "Research"
-        href: "#research-teaching-areas"
-        
-      - icon: book-open
+        href: "#research-identity"
+
+      - icon: cpu
+        text: "Infrastructure"
+        href: "#research-infrastructure-open-science"
+
+      - icon: journal-text
         text: "Publications"
         href: "#publications-open-repositories"
-        
-      - icon: flask
-        text: "Projects"
-        href: "#projects"
-        
-      - icon: id-badge
-        text: "Profiles"
-        href: "#professional-profiles"
 
+      - icon: mortarboard
+        text: "Background"
+        href: "#academic-background-professional-experience"
+
+      - icon: person-badge
+        text: "Profiles"
+        href: "#research-profiles"
+
+      - icon: people
+        text: "Collaboration"
+        href: "#collaboration"
   page-footer:
     background: "#0d2a54"
     foreground: "#ffffff"
@@ -40,10 +49,18 @@ website:
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: true
     toc-location: left
-    css: styles.css
+    toc-title: "On this page"
+    toc-depth: 3
+    page-layout: article
     smooth-scroll: true
+    code-copy: true
+    code-overflow: wrap
+    number-sections: false
+    lang: en
+    html-math-method: mathjax
 
 
 
