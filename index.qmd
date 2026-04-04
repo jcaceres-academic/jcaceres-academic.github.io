@@ -21,7 +21,7 @@ execute:
   freeze: auto
 ---
 
-![](images/profile.jpg){width="170" style="border-radius:50%;float:left;margin-right:25px;margin-bottom:15px;"}
+![](images/profile2.png){width="170" style="border-radius:50%;float:left;margin-right:25px;margin-bottom:15px;"}
 
 # 🔬 Research Identity
 
