@@ -123,36 +123,6 @@ This approach ensures traceability, transparency, and methodological consistency
 
 # 📚 Publications & Open Repositories
 
-### ⚖️ Urban PM2.5 Imbalance Evaluation Framework
-```{=html}
-
- <div class="col-md-6">
-  <div class="card border-0 shadow-sm p-2 h-100">
-    <div class="card-body p-2">
-      <p class="card-text medium text-muted mb-2">
-        Imbalance-aware classification and performance–cost trade-off analysis  
-        <em>(Manuscript under review, 2026)</em>
-      </p>
-
-      <div class="d-flex flex-wrap gap-3 small">
-        <a href="https://jcaceres-academic.github.io/urban-pm25-imbalance-evaluation/" target="_blank" class="text-dark">
-          🌐 Project
-        </a>
-        <a href="#" target="_blank" class="text-primary">
-          📄 Article
-        </a>
-        <a href="https://jcaceres-academic.github.io/urban-pm25-imbalance-evaluation/scripts.html" target="_blank" class="text-warning">
-          🧪 Analysis Scripts
-        </a>
-        <a href="https://github.com/jcaceres-academic/urban-pm25-imbalance-evaluation" target="_blank" class="text-secondary">
-          💾 Repository
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-```
-
 ### 📊 Urban PM2.5 Methodology
 
 ```{=html}
@@ -160,7 +130,7 @@ This approach ensures traceability, transparency, and methodological consistency
     <div class="card border-0 shadow-sm p-2 h-100">
       <div class="card-body p-2">
         <p class="card-text medium text-muted mb-2">
-          Reproducible methodological pipeline for urban PM2.5 time series analysis  (Manuscript under review, 2026)
+          Reproducible methodological pipeline for urban PM2.5 time series analysis (Manuscript under review. Springer Nature, 2026)
         </p>
 
         <div class="d-flex flex-wrap gap-3 small">
@@ -184,7 +154,64 @@ This approach ensures traceability, transparency, and methodological consistency
     </div>
   </div>
 ```  
+### ⚖️ Urban PM2.5 Imbalance Evaluation Framework
+```{=html}
+
+ <div class="col-md-6">
+  <div class="card border-0 shadow-sm p-2 h-100">
+    <div class="card-body p-2">
+      <p class="card-text medium text-muted mb-2">
+        Imbalance-aware classification and performance–cost trade-off analysis  
+        <em>(Manuscript under review. Delta, 2026)</em>
+      </p>
+
+      <div class="d-flex flex-wrap gap-3 small">
+        <a href="https://jcaceres-academic.github.io/urban-pm25-imbalance-evaluation/" target="_blank" class="text-dark">
+          🌐 Project
+        </a>
+        <a href="#" target="_blank" class="text-primary">
+          📄 Article
+        </a>
+        <a href="https://jcaceres-academic.github.io/urban-pm25-imbalance-evaluation/scripts.html" target="_blank" class="text-warning">
+          🧪 Analysis Scripts
+        </a>
+        <a href="https://github.com/jcaceres-academic/urban-pm25-imbalance-evaluation" target="_blank" class="text-secondary">
+          💾 Repository
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+```
+### 📈 Urban PM2.5 Forecasting Framework
+
+```{=html}
+   <div class="col-md-6">
+    <div class="card border-0 shadow-sm p-2 h-100">
+      <div class="card-body p-2">
+        <p class="card-text medium text-muted mb-2">
+          Reproducible forecasting framework for urban PM2.5 time series using hybrid AI models  
+          <em>(AppliedMaths, 2025)</em>
+        </p>
   
+        <div class="d-flex flex-wrap gap-3 small">
+          <a href="https://jcaceres-academic.github.io/urban-pm25-forecasting/" target="_blank" class="text-dark">
+            🌐 Project
+          </a>
+          <a href="https://doi.org/10.3390/appliedmath4040076" target="_blank" class="text-primary">
+            📄 Article
+          </a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-forecasting/notebooks.html" target="_blank" class="text-success">
+            💻 Notebook
+          </a>
+          <a href="https://github.com/jcaceres-academic/urban-pm25-forecasting" target="_blank" class="text-secondary">
+            💾 Repository
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+```
 
 ### 🌱 Behavioural and Institutional Drivers of Green Technology Adoption
 
@@ -201,7 +228,7 @@ This approach ensures traceability, transparency, and methodological consistency
           <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/about.html" target="_blank" class="text-dark">
             🌐 Project
           </a>
-          <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/paper/Frontiers_Psychology_Manuscript_2025.pdf" target="_blank" class="text-primary">
+          <a href="https://doi.org/10.3389/fpsyg.2026.1723942" target="_blank" class="text-primary">
             📄 Article
           </a>
           <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/scripts.html" target="_blank" class="text-warning">
@@ -215,7 +242,6 @@ This approach ensures traceability, transparency, and methodological consistency
     </div>
   </div>
 ```
-
 ### 🎓 Citizen Science and STEM Education with R
 
 ```{=html}  
@@ -246,7 +272,6 @@ This approach ensures traceability, transparency, and methodological consistency
     </div>
   </div>
 ```  
-
 ### 🧠 Quantum Computing in Data Science and STEM Education
 
 ```{=html}

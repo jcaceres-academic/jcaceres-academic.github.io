@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: .
+  output-dir: docs
   resources:
     - images
 
@@ -16,7 +16,7 @@ website:
     left:
       - icon: house
         text: "Home"
-        href: index.qmd
+        href: /
 
       - icon: diagram-3
         text: "Research"
