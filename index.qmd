@@ -191,7 +191,7 @@ This approach ensures traceability, transparency, and methodological consistency
       <div class="card-body p-2">
         <p class="card-text medium text-muted mb-2">
           Reproducible forecasting framework for urban PM2.5 time series using hybrid AI models  
-          <em>(AppliedMaths, 2025)</em>
+          <em>(AppliedMaths, 2024)</em>
         </p>
   
         <div class="d-flex flex-wrap gap-3 small">
