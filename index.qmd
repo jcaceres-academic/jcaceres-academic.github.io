@@ -1,6 +1,6 @@
 ---
 title: "Jesús Cáceres Tello"
-subtitle: "Research Profile | Data Science, Urban Sustainability & Reproducible AI"
+subtitle: "Research Profile | Imbalance-Aware AI, Urban Data Science & Reproducible Analytical Systems"
 format:
   html:
     include-in-header:
@@ -20,66 +20,54 @@ execute:
   message: false
   freeze: auto
 ---
-<div style="display:flex; flex-wrap:wrap; gap:6px; align-items:center;">
-  
-  <a href="https://www.linkedin.com/in/cacerestj/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white">
-  </a>
 
-  <a href="https://orcid.org/0000-0003-0958-6688" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ORCID-0000--0003--0958--6688-green">
-  </a>
+::: {style="display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:10px;"}
+<a href="https://orcid.org/0000-0003-0958-6688" target="_blank"> <img src="https://img.shields.io/badge/ORCID-0000--0003--0958--6688-A6CE39?logo=orcid&amp;logoColor=white"/> </a>
 
-  <a href="https://scholar.google.es/citations?user=IHPgogMAAAAJ" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue">
-  </a>
+<a href="https://scholar.google.es/citations?user=IHPgogMAAAAJ" target="_blank"> <img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?logo=google-scholar&amp;logoColor=white"/> </a>
 
-  <a href="https://www.researchgate.net/profile/Jesus-Tello" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white">
-  </a>
+<a href="https://www.researchgate.net/profile/Jesus-Tello" target="_blank"> <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&amp;logoColor=white"/> </a>
 
-  <a href="https://www.zotero.org/jcaceres_academic" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Zotero-Library-red">
-  </a>
+<a href="https://zenodo.org/search?q=creators.name=%22Caceres-Tello%22" target="_blank"> <img src="https://img.shields.io/badge/Zenodo-Open%20Science-F16061?logo=zenodo&amp;logoColor=white"/> </a>
 
-  <a href="https://zenodo.org/search?q=creators.name=%22Caceres-Tello%22" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Zenodo-Research-orange">
-  </a>
+<a href="https://www.zotero.org/jcaceres_academic" target="_blank"> <img src="https://img.shields.io/badge/Zotero-References-CC2936?logo=zotero&amp;logoColor=white"/> </a>
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jcaceres.home" alt="Visitas">
+<a href="https://www.linkedin.com/in/cacerestj/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?logo=linkedin&amp;logoColor=white"/> </a>
 
-</div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jcaceres.home" alt="Visitors"/>
+:::
 
----
+------------------------------------------------------------------------
 
-![](images/profile2.png){width="170" style="border-radius:50%;float:left; margin-right:25px;margin-bottom:15px;"} 
+![](images/profile4.png){width="170" style="border-radius:5%;float:left; margin-right:25px;margin-bottom:15px;"}
 
-# 🔬 Research Identity
+## 🔬 Research Identity
 
 ::: intro-block
-**Urban Data Science · Imbalance-Aware Modelling · Reproducible AI Systems**
+**Imbalance-Aware AI · Urban Data Science · Reproducible AI Systems**
 
-Jesús Cáceres-Tello is a researcher working at the intersection of urban sustainability, machine learning methodology, and open computational science.
+Jesús Cáceres-Tello is a researcher specialising in methodological artificial intelligence, with a focus on the evaluation of predictive models under real-world constraints in urban systems.
 
-His research focuses on the design and evaluation of predictive models under real-world constraints, particularly in environments characterised by class imbalance, temporal structure, and operational limitations.
+His work integrates urban sustainability, machine learning evaluation, and open computational science, with particular emphasis on class imbalance, temporal validation, and operational feasibility.
 
-Rather than prioritising algorithmic novelty, his work emphasises:
+Rather than prioritising algorithmic novelty, his research emphasises:
+
 ```{=html}
 <ul>
+  <li><strong>Time-aware validation</strong></li>
+  <li><strong>Performance–cost trade-off analysis</strong></li>
   <li>Methodological rigour</li>
-  <li>Time-aware validation</li>
-  <li>Performance–cost trade-off analysis</li>
   <li>Reproducibility by design</li>
   <li>Open science integration</li>
 </ul>
 ```
-:::
 
-# 🎯 Research Mission
+## 🎯 Research Mission
 
 The core objective of my research is to develop methodologically coherent AI frameworks for urban sustainability and STEM education.
 
 This involves:
+
 ```{=html}
 <ul>
   <li>Evaluating models under structural imbalance</li>
@@ -88,29 +76,34 @@ This involves:
   <li>Linking data science with institutional decision-making</li>
 </ul>
 ```
+
 My work contributes to a broader research programme in applied data science for sustainable systems, currently developed within my doctoral studies at the Complutense University of Madrid.
-# 🔬 Research Areas
 
-- 🌍 Urban environmental modelling and air quality forecasting
-- ⚖️ Imbalanced learning and classification evaluation
-- 🤖 Hybrid predictive architectures (Prophet–LSTM, GAT–BiLSTM)
-- 📈 Performance–cost trade-off analysis
-- 🧩 Open science and reproducible research infrastructures
-- 🎓 AI-supported STEM education
+## 🔬 Research Areas
 
-# 🏗 Research Infrastructure & Open Science
+-   🌍 Urban environmental modelling and air quality forecasting
+-   ⚖️ Imbalanced learning and classification evaluation
+-   🤖 Hybrid predictive architectures (Prophet–LSTM, GAT–BiLSTM)
+-   📈 Performance–cost trade-off analysis
+-   🧩 Reproducible research and open science infrastructures\
+-   🎓 AI-supported STEM education
+
+## 🏗 Research Infrastructure & Open Science
 
 All research projects are developed under a structured computational framework:
+
 ```{=html}
 <ul>
   <li>Git-based version control</li>
   <li>Public repositories with DOI integration (Zenodo)</li>
   <li>Reproducible scripts and notebooks (R / Python / Quarto)</li>
   <li>Time-based validation strategies</li>
-  <li>Transparent performance reporting</li>
+  <li>Transparent and standardised performance reporting</li>
 </ul>
 ```
+
 Each publication is accompanied by:
+
 ```{=html}
 <ul>
   <li>An open repository</li>
@@ -119,14 +112,15 @@ Each publication is accompanied by:
   <li>Publicly accessible data sources</li>
 </ul>
 ```
-This approach ensures traceability, transparency, and methodological consistency across projects.
 
-# 📚 Publications & Open Repositories
+This framework ensures traceability, transparency, and methodological consistency across projects.
+
+## 📚 Publications & Open Repositories
 
 ### 📊 Urban PM2.5 Methodology
 
 ```{=html}
-  <div class="col-md-6">
+  <div class="col-md-6 col-lg-4">
     <div class="card border-0 shadow-sm p-2 h-100">
       <div class="card-body p-2">
         <p class="card-text medium text-muted mb-2">
@@ -153,11 +147,13 @@ This approach ensures traceability, transparency, and methodological consistency
       </div> 
     </div>
   </div>
-```  
+```
+
 ### ⚖️ Urban PM2.5 Imbalance Evaluation Framework
+
 ```{=html}
 
- <div class="col-md-6">
+ <div class="col-md-6 col-lg-4">
   <div class="card border-0 shadow-sm p-2 h-100">
     <div class="card-body p-2">
       <p class="card-text medium text-muted mb-2">
@@ -183,10 +179,11 @@ This approach ensures traceability, transparency, and methodological consistency
   </div>
 </div>
 ```
+
 ### 📈 Urban PM2.5 Forecasting Framework
 
 ```{=html}
-   <div class="col-md-6">
+   <div class="col-md-6 col-lg-4">
     <div class="card border-0 shadow-sm p-2 h-100">
       <div class="card-body p-2">
         <p class="card-text medium text-muted mb-2">
@@ -215,8 +212,8 @@ This approach ensures traceability, transparency, and methodological consistency
 
 ### 🌱 Behavioural and Institutional Drivers of Green Technology Adoption
 
-```{=html}  
-   <div class="col-md-6">
+```{=html}
+   <div class="col-md-6 col-lg-4">
     <div class="card border-0 shadow-sm p-2 h-100">
       <div class="card-body p-2">
         <p class="card-text medium text-muted mb-2">
@@ -242,11 +239,12 @@ This approach ensures traceability, transparency, and methodological consistency
     </div>
   </div>
 ```
+
 ### 🎓 Citizen Science and STEM Education with R
 
-```{=html}  
+```{=html}
  
-  <div class="col-md-6">
+  <div class="col-md-6 col-lg-4">
     <div class="card border-0 shadow-sm p-2 h-100">
       <div class="card-body p-2">
         <p class="card-text medium text-muted mb-2">
@@ -271,11 +269,12 @@ This approach ensures traceability, transparency, and methodological consistency
       </div>
     </div>
   </div>
-```  
+```
+
 ### 🧠 Quantum Computing in Data Science and STEM Education
 
 ```{=html}
- <div class="col-md-6">
+ <div class="col-md-6 col-lg-4">
   <div class="card border-0 shadow-sm p-2 h-100">
     <div class="card-body p-2">
       <p class="card-text medium text-muted mb-2">
@@ -302,27 +301,37 @@ This approach ensures traceability, transparency, and methodological consistency
 </div>
 ```
 
-# 🎓 Academic Background & Professional Experience
+## 🎓 Academic Background & Professional Experience
 
 Jesús Cáceres-Tello holds:
+
 ```{=html}
   <ul>
-    <li>Diploma in Computer Science: University of Málaga</li>
-    <li>B.Sc. in Computer Engineering: Catholic University of Ávila</li>
-    <li>Master’s Degree in Educational Informatics: University of Alcalá</li>
-    <li>He is currently pursuing a <strong>Ph.D. in Statistical Studies at the Complutense University of Madrid</strong>, developing methodological frameworks for urban sustainability analytics.</li>
+    <li>Ph.D. candidate in Data Science (Statistical Studies), Complutense University of Madrid  
+        <em>(expected defence: April 2026)</em></li>
+  
+    <li>Master’s Degree in Artificial Intelligence, IoT and Big Data for Digital Transformation, INESEM Business School (2024)</li>
+  
+    <li>Master’s Degree in Educational Informatics, University of Alcalá</li>
+  
+    <li>B.Sc. in Information Systems Engineering, Catholic University of Ávila</li>
+  
+    <li>Diploma in Computer Science (Business Informatics), University of Málaga</li>
   </ul>
+  
 <p>His professional experience includes:</p>
+  
   <ul>
-    <li>Leadership in university digital infrastructure systems</li>
-    <li>Participation in European Electronic Health Record interoperability projects (ISO 13606, ISO 21090)</li>
-    <li>Development of national e-learning platforms</li>
-    <li>Public-sector environmental technology projects at Madrid City Council</li>
+    <li>Applied data science and artificial intelligence in public-sector environments (Madrid City Council)</li>
+    <li>Participation in European and national research projects in health informatics and interoperability</li>
+    <li>Development of data-driven systems, predictive models, and business intelligence solutions</li>
+    <li>Leadership and coordination of digital infrastructure and analytics initiatives</li>
   </ul>
 ```
+
 He has been teaching in higher education for over a decade and actively contributes to academic innovation initiatives.
 
-# 🧑‍🎓 Research Profiles
+## 🧑‍🎓 Research Profiles
 
 You can explore my professional and academic presence across several open-science platforms. These profiles provide access to publications, collaborations, datasets, and teaching activities related to environmental informatics, STEM education, and open data research. Connect with me on:
 
@@ -344,9 +353,10 @@ You can explore my professional and academic presence across several open-scienc
 <div class="row g-3">
 ```
 
-# 🤝 Collaboration
+## 🤝 Collaboration
 
 I welcome collaboration in:
+
 ```{=html}
 <ul>
   <li>Urban sustainability analytics</li>
@@ -358,11 +368,10 @@ I welcome collaboration in:
 
 
 
-<div class="closing-line">Current research is developed within a compendium-based doctoral thesis integrating urban sustainability, methodological AI, and open science frameworks.</div>
-```
-
-```{=html}
+<div class="closing-line">
+Current research is developed within a compendium-based doctoral thesis integrating urban sustainability, methodological AI, and open science frameworks.
 </div>
 ```
 
-
+</div>
+:::
