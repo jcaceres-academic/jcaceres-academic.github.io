@@ -21,28 +21,26 @@ execute:
   freeze: auto
 ---
 
-::: {style="display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:10px;"}
-<a href="https://orcid.org/0000-0003-0958-6688" target="_blank"> <img src="https://img.shields.io/badge/ORCID-0000--0003--0958--6688-A6CE39?logo=orcid&amp;logoColor=white"/> </a>
+::: {style="display:flex; flex-wrap:wrap; gap:8px; align-items:center; overflow-x: auto; white-space: nowrap; margin-bottom:10px;"}
+<a href="https://orcid.org/0000-0003-0958-6688" target="_blank"> <img src="https://img.shields.io/badge/ORCID-0000--0003--0958--6688-A6CE39?logo=orcid&amp;logoColor=white" style="height:15px;"/> </a>
 
-<a href="https://scholar.google.es/citations?user=IHPgogMAAAAJ" target="_blank"> <img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?logo=google-scholar&amp;logoColor=white"/> </a>
+<a href="https://scholar.google.es/citations?user=IHPgogMAAAAJ" target="_blank"> <img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?logo=google-scholar&amp;logoColor=white" style="height:15px;"/> </a>
 
-<a href="https://www.researchgate.net/profile/Jesus-Tello" target="_blank"> <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&amp;logoColor=white"/> </a>
+<a href="https://www.researchgate.net/profile/Jesus-Tello" target="_blank"> <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&amp;logoColor=white" style="height:15px;"/> </a>
 
-<a href="https://zenodo.org/search?q=creators.name=%22Caceres-Tello%22" target="_blank"> <img src="https://img.shields.io/badge/Zenodo-Open%20Science-F16061?logo=zenodo&amp;logoColor=white"/> </a>
+<a href="https://zenodo.org/search?q=creators.name=%22Caceres-Tello%22" target="_blank"> <img src="https://img.shields.io/badge/Zenodo-Open%20Science-F16061?logo=zenodo&amp;logoColor=white"style="height:20px;"/> </a>
 
-<a href="https://www.zotero.org/jcaceres_academic" target="_blank"> <img src="https://img.shields.io/badge/Zotero-References-CC2936?logo=zotero&amp;logoColor=white"/> </a>
+<a href="https://www.zotero.org/jcaceres_academic" target="_blank"> <img src="https://img.shields.io/badge/Zotero-References-CC2936?logo=zotero&amp;logoColor=white" style="height:15px;"/> </a>
 
-<a href="https://www.linkedin.com/in/cacerestj/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?logo=linkedin&amp;logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/cacerestj/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?logo=linkedin&amp;logoColor=white" style="height:15px;"/> </a>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jcaceres.home" alt="Visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jcaceres.home" alt="Visitors" style="height:15px;"/>
 :::
-
 ------------------------------------------------------------------------
 
 ![](images/profile4.png){width="170" style="border-radius:5%;float:left; margin-right:25px;margin-bottom:15px;"}
 
 ## 🔬 Research Identity
-
 ::: intro-block
 **Imbalance-Aware AI · Urban Data Science · Reproducible AI Systems**
 
@@ -61,9 +59,10 @@ Rather than prioritising algorithmic novelty, his research emphasises:
   <li>Open science integration</li>
 </ul>
 ```
+:::
 
 ## 🎯 Research Mission
-
+::: intro-block
 The core objective of my research is to develop methodologically coherent AI frameworks for urban sustainability and STEM education.
 
 This involves:
@@ -78,18 +77,20 @@ This involves:
 ```
 
 My work contributes to a broader research programme in applied data science for sustainable systems, currently developed within my doctoral studies at the Complutense University of Madrid.
+:::
 
 ## 🔬 Research Areas
-
+::: intro-block
 -   🌍 Urban environmental modelling and air quality forecasting
 -   ⚖️ Imbalanced learning and classification evaluation
 -   🤖 Hybrid predictive architectures (Prophet–LSTM, GAT–BiLSTM)
 -   📈 Performance–cost trade-off analysis
 -   🧩 Reproducible research and open science infrastructures\
 -   🎓 AI-supported STEM education
+:::
 
 ## 🏗 Research Infrastructure & Open Science
-
+::: intro-block
 All research projects are developed under a structured computational framework:
 
 ```{=html}
@@ -114,11 +115,10 @@ Each publication is accompanied by:
 ```
 
 This framework ensures traceability, transparency, and methodological consistency across projects.
-
+:::
 ## 📚 Publications & Open Repositories
 
 ### 📊 Urban PM2.5 Methodology
-
 ```{=html}
   <div class="col-md-6 col-lg-4">
     <div class="card border-0 shadow-sm p-2 h-100">
@@ -302,7 +302,7 @@ This framework ensures traceability, transparency, and methodological consistenc
 ```
 
 ## 🎓 Academic Background & Professional Experience
-
+::: intro-block
 Jesús Cáceres-Tello holds:
 
 ```{=html}
@@ -330,9 +330,10 @@ Jesús Cáceres-Tello holds:
 ```
 
 He has been teaching in higher education for over a decade and actively contributes to academic innovation initiatives.
+:::
 
 ## 🧑‍🎓 Research Profiles
-
+::: intro-block
 You can explore my professional and academic presence across several open-science platforms. These profiles provide access to publications, collaborations, datasets, and teaching activities related to environmental informatics, STEM education, and open data research. Connect with me on:
 
 ```{=html}
@@ -352,9 +353,10 @@ You can explore my professional and academic presence across several open-scienc
 </div>
 <div class="row g-3">
 ```
+:::
 
 ## 🤝 Collaboration
-
+::: intro-block
 I welcome collaboration in:
 
 ```{=html}
@@ -365,8 +367,6 @@ I welcome collaboration in:
   <li>Hybrid predictive systems</li>
   <li>AI-enhanced STEM education</li>
 </ul>
-
-
 
 <div class="closing-line">
 Current research is developed within a compendium-based doctoral thesis integrating urban sustainability, methodological AI, and open science frameworks.
