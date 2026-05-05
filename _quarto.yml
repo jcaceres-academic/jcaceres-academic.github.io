@@ -4,6 +4,17 @@ project:
   resources:
     - images
 
+include-in-header:
+  text: |
+    <style>
+    .secondary-subtitle {
+      font-size: 1.05rem;
+      color: #6c757d;
+      margin-top: -10px;
+      margin-bottom: 20px;
+    }
+    </style>
+    
 website:
   title: "Jesús Cáceres-Tello"
 

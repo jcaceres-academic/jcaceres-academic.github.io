@@ -1,11 +1,28 @@
 ---
 title: "Jesús Cáceres Tello"
-subtitle: "Research Profile | Imbalance-Aware AI, Urban Data Science & Reproducible Analytical Systems"
+subtitle: "Data Science and Artificial Intelligence for Urban Sustainability and Public Sector Innovation. Focused on reproducible research, methodological rigour, and real-world deployment of AI systems."
 format:
   html:
     include-in-header:
       text: |
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+        <style>
+        .quarto-title-block .title {
+          margin-bottom: 5px;
+        }
+        .quarto-title-block .subtitle {
+          font-size: 1.05rem;
+          font-weight: 400;
+          max-width: 850px;
+          line-height: 1.5;
+        }
+        .secondary-subtitle {
+            font-size: 0.95rem;
+            color: #6c757d;
+            margin-top: 8px;
+            margin-bottom: 25px;
+        }
+        </style>
     theme: cosmo
     toc: true
     toc-title: "Contents"
@@ -20,6 +37,9 @@ execute:
   message: false
   freeze: auto
 ---
+<div class="secondary-subtitle">
+Imbalance-Aware Artificial Intelligence, Urban Data Science and Reproducible Analytical Systems
+</div>
 <div style="
   display:flex;
   flex-wrap:nowrap;
@@ -29,7 +49,6 @@ execute:
   white-space:nowrap;
   margin-bottom:10px;
 ">
-
 <a href="https://orcid.org/0000-0003-0958-6688" target="_blank" style="display:flex; align-items:center;">
   <img src="https://img.shields.io/badge/ORCID-0000--0003--0958--6688-A6CE39?logo=orcid&logoColor=white" style="height:19px; display:block;">
 </a>
@@ -65,81 +84,62 @@ execute:
 
 ## 🔬 Research Identity
 ::: intro-block
-**Imbalance-Aware AI · Urban Data Science · Reproducible AI Systems**
+**Imbalance-Aware Artificial Intelligence · Urban Data Science · Reproducible Analytical Systems**
 
-Jesús Cáceres-Tello is a researcher specialising in methodological artificial intelligence, with a focus on the evaluation of predictive models under real-world constraints in urban systems.
+Jesús Cáceres-Tello is a PhD in Statistical Studies specialising in methodological artificial intelligence and urban data science. He combines academic research with extensive experience in public sector digital systems and applied data science.
 
-His work integrates urban sustainability, machine learning evaluation, and open computational science, with particular emphasis on class imbalance, temporal validation, and operational feasibility.
+His work focuses on the evaluation of predictive models under real-world constraints, with emphasis on:
 
-Rather than prioritising algorithmic novelty, his research emphasises:
+- Urban environmental modelling and air quality forecasting  
+- Machine learning under class imbalance  
+- Time series forecasting and temporal validation  
+- Hybrid and deep learning architectures  
+- Performance–cost trade-off analysis  
+- Reproducible research and open science frameworks  
+- AI-supported STEM education  
 
-```{=html}
-<ul>
-  <li><strong>Time-aware validation</strong></li>
-  <li><strong>Performance–cost trade-off analysis</strong></li>
-  <li>Methodological rigour</li>
-  <li>Reproducibility by design</li>
-  <li>Open science integration</li>
-</ul>
-```
+His research contributes to the development of transparent, reproducible, and operational AI systems for sustainable urban environments.
 :::
 
 ## 🎯 Research Mission
 ::: intro-block
-The core objective of my research is to develop methodologically coherent AI frameworks for urban sustainability and STEM education.
+The objective of his research is to develop methodologically coherent AI frameworks for urban sustainability and STEM education.
 
-This involves:
+This includes:
 
-```{=html}
-<ul>
-  <li>Evaluating models under structural imbalance</li>
-  <li>Designing reproducible analytical pipelines</li>
-  <li>Integrating computational efficiency into model comparison</li>
-  <li>Linking data science with institutional decision-making</li>
-</ul>
-```
+- Evaluating models under structural imbalance  
+- Designing reproducible analytical pipelines  
+- Integrating computational efficiency into model comparison  
+- Supporting data-driven decision-making in institutional contexts  
 
-My work contributes to a broader research programme in applied data science for sustainable systems, currently developed within my doctoral studies at the Complutense University of Madrid.
-:::
-
-## 🔬 Research Areas
-::: intro-block
--   🌍 Urban environmental modelling and air quality forecasting
--   ⚖️ Imbalanced learning and classification evaluation
--   🤖 Hybrid predictive architectures (Prophet–LSTM, GAT–BiLSTM)
--   📈 Performance–cost trade-off analysis
--   🧩 Reproducible research and open science infrastructures\
--   🎓 AI-supported STEM education
+His research is developed within a broader programme in applied data science for sustainable systems.
 :::
 
 ## 🏗 Research Infrastructure & Open Science
 ::: intro-block
-All research projects are developed under a structured computational framework:
+All research is developed following open science and reproducibility principles.
 
-```{=html}
-<ul>
-  <li>Git-based version control</li>
-  <li>Public repositories with DOI integration (Zenodo)</li>
-  <li>Reproducible scripts and notebooks (R / Python / Quarto)</li>
-  <li>Time-based validation strategies</li>
-  <li>Transparent and standardised performance reporting</li>
-</ul>
-```
+All research projects are developed within a structured computational framework:
 
-Each publication is accompanied by:
+- Git-based version control  
+- Public repositories with DOI integration (Zenodo)  
+- Reproducible scripts and notebooks (R, Python, Quarto)  
+- Time-based validation strategies  
+- Transparent and standardised performance reporting  
 
-```{=html}
-<ul>
-  <li>An open repository</li>
-  <li>Executable code</li>
-  <li>Structured documentation</li>
-  <li>Publicly accessible data sources</li>
-</ul>
-```
+Each publication is supported by:
 
-This framework ensures traceability, transparency, and methodological consistency across projects.
+- An open repository  
+- Executable code  
+- Structured documentation  
+- Publicly accessible data sources  
+
+This approach ensures traceability, transparency, and methodological consistency across all research outputs.
 :::
+
 ## 📚 Publications & Open Repositories
+
+All publications are accompanied by open repositories, executable code, and reproducible workflows.
 
 ### 📊 Urban PM2.5 Methodology
 ```{=html}
@@ -147,7 +147,7 @@ This framework ensures traceability, transparency, and methodological consistenc
     <div class="card border-0 shadow-sm p-2 h-100">
       <div class="card-body p-2">
         <p class="card-text medium text-muted mb-2">
-          Reproducible methodological pipeline for urban PM2.5 time series analysis (Manuscript under review. Springer Nature, 2026)
+          Reproducible methodological pipeline for urban PM2.5 time series analysis (Manuscript under review. Springer Nature)
         </p>
 
         <div class="d-flex flex-wrap gap-3 small">
@@ -160,11 +160,11 @@ This framework ensures traceability, transparency, and methodological consistenc
           <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/notebook.html" target="_blank" class="text-success">
             💻 Notebook
           </a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/scripts.html" target="_blank" class="text-warning">
+            🧪 Scripts
+          </a>
           <a href="https://github.com/jcaceres-academic/urban-pm25-methodology" target="_blank" class="text-secondary">
             💾 Repository
-          </a>
-          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/scripts.html"
-   target="_blank" class="text-warning">🧪 Scripts & Pipeline Validation
           </a>
         </div>
       </div> 
@@ -192,7 +192,7 @@ This framework ensures traceability, transparency, and methodological consistenc
           📄 Article
         </a>
         <a href="https://jcaceres-academic.github.io/urban-pm25-imbalance-evaluation/scripts.html" target="_blank" class="text-warning">
-          🧪 Analysis Scripts
+          🧪 Scripts
         </a>
         <a href="https://github.com/jcaceres-academic/urban-pm25-imbalance-evaluation" target="_blank" class="text-secondary">
           💾 Repository
@@ -224,6 +224,9 @@ This framework ensures traceability, transparency, and methodological consistenc
           <a href="https://jcaceres-academic.github.io/urban-pm25-forecasting/notebooks.html" target="_blank" class="text-success">
             💻 Notebook
           </a>
+         <a href="https://jcaceres-academic.github.io/urban-pm25-forecasting/scripts.html" target="_blank" class="text-warning">
+          🧪 Scripts
+        </a>
           <a href="https://github.com/jcaceres-academic/urban-pm25-forecasting" target="_blank" class="text-secondary">
             💾 Repository
           </a>
@@ -252,7 +255,7 @@ This framework ensures traceability, transparency, and methodological consistenc
             📄 Article
           </a>
           <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/scripts.html" target="_blank" class="text-warning">
-            🧪 Analysis Scripts
+            🧪 Scripts
           </a>
           <a href="https://github.com/jcaceres-academic/extended-tam-green-technology" target="_blank" class="text-secondary">
             💾 Repository
@@ -313,7 +316,7 @@ This framework ensures traceability, transparency, and methodological consistenc
           📄 Article
         </a>
         <a href="https://jcaceres-academic.github.io/quantum-computing-stem-education/scripts.html" target="_blank" class="text-warning">
-          🧪 Analysis Scripts
+          🧪 Scripts
         </a>
         <a href="https://github.com/jcaceres-academic/quantum-computing-stem-education" target="_blank" class="text-secondary">
           💾 Repository
