@@ -141,6 +141,37 @@ This approach ensures traceability, transparency, and methodological consistency
 
 All publications are accompanied by open repositories, executable code, and reproducible workflows.
 
+### 🧩 Experimental Fragility in AI-Based Predictive Systems
+```{=html}
+  <div class="col-md-6 col-lg-4">
+    <div class="card border-0 shadow-sm p-2 h-100">
+      <div class="card-body p-2">
+        <p class="card-text medium text-muted mb-2">
+          Reproducible framework for evaluating Experimental Fragility, temporal validation and distribution shift in AI-based predictive systems.
+        </p>
+
+        <div class="d-flex flex-wrap gap-3 small">
+          <a href="https://jcaceres-academic.github.io/aikp26_experimental_fragility/" target="_blank" class="text-dark">
+            🌐 Project
+          </a>
+          <a href="#" class="text-primary">
+            📄 Article
+          </a>
+          <a href="https://jcaceres-academic.github.io/aikp26_experimental_fragility/notebook.html" target="_blank" class="text-success">
+            💻 Notebook
+          </a>
+          <a href="https://jcaceres-academic.github.io/aikp26_experimental_fragility/scripts.html" target="_blank" class="text-warning">
+            🧪 Scripts
+          </a>
+          <a href="https://github.com/jcaceres-academic/aikp26_experimental_fragility" target="_blank" class="text-secondary">
+            💾 Repository
+          </a>
+        </div>
+      </div> 
+    </div>
+  </div>
+```
+
 ### 📊 Urban PM2.5 Methodology
 ```{=html}
   <div class="col-md-6 col-lg-4">
