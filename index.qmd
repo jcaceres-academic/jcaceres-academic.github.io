@@ -37,102 +37,89 @@ execute:
   message: false
   freeze: auto
 ---
-<div class="secondary-subtitle">
-Imbalance-Aware Artificial Intelligence, Urban Data Science and Reproducible Analytical Systems
-</div>
-<div style="
-  display:flex;
-  flex-wrap:nowrap;
-  gap:2.5px;
-  align-items:center;
-  overflow-x:auto;
-  white-space:nowrap;
-  margin-bottom:10px;
-">
-<a href="https://orcid.org/0000-0003-0958-6688" target="_blank" style="display:flex; align-items:center;">
-  <img src="https://img.shields.io/badge/ORCID-0000--0003--0958--6688-A6CE39?logo=orcid&logoColor=white" style="height:19px; display:block;">
-</a>
 
-<a href="https://scholar.google.es/citations?user=IHPgogMAAAAJ" target="_blank" style="display:flex; align-items:center;">
-  <img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?logo=google-scholar&logoColor=white" style="height:19px; display:block;">
-</a>
+::: secondary-subtitle
+Methodological Artificial Intelligence · Urban Data Science · Reproducible Analytical Systems
+:::
 
-<a href="https://www.researchgate.net/profile/Jesus-Tello" target="_blank" style="display:flex; align-items:center;">
-  <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white" style="height:19px; display:block;">
-</a>
+:::: {style="display:flex; flex-wrap:nowrap; gap:2.5px; align-items:center; overflow-x:auto; white-space:nowrap; margin-bottom:10px; "} 
+<a href="https://orcid.org/0000-0003-0958-6688" target="_blank" style="display:flex; align-items:center;"> <img src="https://img.shields.io/badge/ORCID-0000--0003--0958--6688-A6CE39?logo=orcid&amp;logoColor=white" style="height:19px; display:block;"/> </a>
 
-<a href="https://zenodo.org/search?q=creators.name=%22Caceres-Tello%22" target="_blank" style="display:flex; align-items:center;">
-  <img src="https://img.shields.io/badge/Zenodo-Open%20Science-F16061?logo=zenodo&logoColor=white" style="height:19px; display:block;">
-</a>
+<a href="https://scholar.google.es/citations?user=IHPgogMAAAAJ" target="_blank" style="display:flex; align-items:center;"> <img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?logo=google-scholar&amp;logoColor=white" style="height:19px; display:block;"/> </a>
 
-<a href="https://www.zotero.org/jcaceres_academic" target="_blank" style="display:flex; align-items:center;">
-  <img src="https://img.shields.io/badge/Zotero-References-CC2936?logo=zotero&logoColor=white" style="height:19px; display:block;">
-</a>
+<a href="https://www.researchgate.net/profile/Jesus-Tello" target="_blank" style="display:flex; align-items:center;"> <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&amp;logoColor=white" style="height:19px; display:block;"/> </a>
 
-<a href="https://www.linkedin.com/in/cacerestj/" target="_blank" style="display:flex; align-items:center;">
-  <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?logo=linkedin&logoColor=white" style="height:19px; display:block;">
-</a>
+<a href="https://zenodo.org/search?q=creators.name=%22Caceres-Tello%22" target="_blank" style="display:flex; align-items:center;"> <img src="https://img.shields.io/badge/Zenodo-Open%20Science-F16061?logo=zenodo&amp;logoColor=white" style="height:19px; display:block;"/> </a>
 
-<div style="display:flex; align-items:center;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jcaceres.home" style="height:19px; display:block;">
-</div>
+<a href="https://www.zotero.org/jcaceres_academic" target="_blank" style="display:flex; align-items:center;"> <img src="https://img.shields.io/badge/Zotero-References-CC2936?logo=zotero&amp;logoColor=white" style="height:19px; display:block;"/> </a>
 
-</div>
+<a href="https://www.linkedin.com/in/cacerestj/" target="_blank" style="display:flex; align-items:center;"> <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?logo=linkedin&amp;logoColor=white" style="height:19px; display:block;"/> </a>
+
+::: {style="display:flex; align-items:center;"}
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jcaceres.home" style="height:19px; display:block;"/>
+:::
+::::
+
 ------------------------------------------------------------------------
 
 ![](images/profile4.png){width="170" style="border-radius:5%;float:left; margin-right:25px;margin-bottom:15px;"}
 
 ## 🔬 Research Identity
-::: intro-block
-**Imbalance-Aware Artificial Intelligence · Urban Data Science · Reproducible Analytical Systems**
 
-Jesús Cáceres-Tello is a PhD in Statistical Studies specialising in methodological artificial intelligence and urban data science. He combines academic research with extensive experience in public sector digital systems and applied data science.
+::: intro-block
+**Methodological Artificial Intelligence · Urban Data Science · Reproducible Analytical Systems**
+
+Jesús Cáceres-Tello holds a PhD in Data Science from the Complutense University of Madrid, with a research focus on methodological artificial intelligence and urban data science. He combines academic research with extensive experience in public sector digital systems and applied data science.
 
 His work focuses on the evaluation of predictive models under real-world constraints, with emphasis on:
 
-- Urban environmental modelling and air quality forecasting  
-- Machine learning under class imbalance  
-- Time series forecasting and temporal validation  
-- Hybrid and deep learning architectures  
-- Performance–cost trade-off analysis  
-- Reproducible research and open science frameworks  
-- AI-supported STEM education  
+-   Urban environmental modelling and air quality forecasting
+-   Machine learning under class imbalance
+-   Time series forecasting and temporal validation
+-   Hybrid and deep learning architectures
+-   Performance–cost trade-off analysis
+-   Reproducible research and open science frameworks
+-   AI-supported STEM education
 
 His research contributes to the development of transparent, reproducible, and operational AI systems for sustainable urban environments.
 :::
 
 ## 🎯 Research Mission
+
 ::: intro-block
-The objective of his research is to develop methodologically coherent AI frameworks for urban sustainability and STEM education.
+His research aims to develop methodologically robust and reproducible approaches for the evaluation and application of artificial intelligence and data science in complex real-world environments.
 
 This includes:
 
-- Evaluating models under structural imbalance  
-- Designing reproducible analytical pipelines  
-- Integrating computational efficiency into model comparison  
-- Supporting data-driven decision-making in institutional contexts  
+- Evaluating predictive models under real-world constraints
+- Designing reproducible and traceable analytical pipelines
+- Analysing performance–cost and robustness trade-offs
+- Integrating computational efficiency into model evaluation
+- Supporting data-driven decision-making in urban and institutional contexts
+- Exploring responsible applications of emerging AI technologies
 
-His research is developed within a broader programme in applied data science for sustainable systems.
+His research is developed within a broader programme focused on methodological AI, urban data science, and reproducible analytical systems.
 :::
 
 ## 🏗 Research Infrastructure & Open Science
+
 ::: intro-block
 All research is developed following open science and reproducibility principles.
 
 All research projects are developed within a structured computational framework:
 
-- Git-based version control  
-- Public repositories with DOI integration (Zenodo)  
-- Reproducible scripts and notebooks (R, Python, Quarto)  
-- Time-based validation strategies  
-- Transparent and standardised performance reporting  
+-   Git-based version control
+-   Public repositories with DOI integration (Zenodo)
+-   Reproducible scripts and notebooks (R, Python, Quarto)
+-   Time-based validation strategies
+-   Transparent and standardised performance reporting
 
 Each publication is supported by:
 
-- An open repository  
-- Executable code  
-- Structured documentation  
-- Publicly accessible data sources  
+-   An open repository
+-   Executable code
+-   Structured documentation
+-   Publicly accessible data sources
 
 This approach ensures traceability, transparency, and methodological consistency across all research outputs.
 :::
@@ -142,6 +129,7 @@ This approach ensures traceability, transparency, and methodological consistency
 All publications are accompanied by open repositories, executable code, and reproducible workflows.
 
 ### 🧩 Experimental Fragility in AI-Based Predictive Systems
+
 ```{=html}
   <div class="col-md-6 col-lg-4">
     <div class="card border-0 shadow-sm p-2 h-100">
@@ -173,6 +161,7 @@ All publications are accompanied by open repositories, executable code, and repr
 ```
 
 ### 📊 Urban PM2.5 Methodology
+
 ```{=html}
   <div class="col-md-6 col-lg-4">
     <div class="card border-0 shadow-sm p-2 h-100">
@@ -359,13 +348,13 @@ All publications are accompanied by open repositories, executable code, and repr
 ```
 
 ## 🎓 Academic Background & Professional Experience
+
 ::: intro-block
 Jesús Cáceres-Tello holds:
 
 ```{=html}
   <ul>
-    <li>Ph.D. candidate in Data Science (Statistical Studies), Complutense University of Madrid  
-        <em>(expected defence: April 2026)</em></li>
+    <li>Ph.D. in Data Science, Faculty of Statistical Studies, Complutense University of Madrid (2026)</li>
   
     <li>Master’s Degree in Artificial Intelligence, IoT and Big Data for Digital Transformation, INESEM Business School (2024)</li>
   
@@ -390,8 +379,11 @@ He has been teaching in higher education for over a decade and actively contribu
 :::
 
 ## 🧑‍🎓 Research Profiles
+
 ::: intro-block
-You can explore my professional and academic presence across several open-science platforms. These profiles provide access to publications, collaborations, datasets, and teaching activities related to environmental informatics, STEM education, and open data research. Connect with me on:
+His professional and academic profiles provide access to publications, collaborations, datasets, repositories, and teaching activities related to data science, artificial intelligence, urban sustainability, STEM education, and open science.
+
+Connect with him through:
 
 ```{=html}
 <div class="footer-icons">
@@ -413,8 +405,9 @@ You can explore my professional and academic presence across several open-scienc
 :::
 
 ## 🤝 Collaboration
+
 ::: intro-block
-I welcome collaboration in:
+He welcomes collaboration in:
 
 ```{=html}
 <ul>
@@ -424,10 +417,6 @@ I welcome collaboration in:
   <li>Hybrid predictive systems</li>
   <li>AI-enhanced STEM education</li>
 </ul>
-
-<div class="closing-line">
-Current research is developed within a compendium-based doctoral thesis integrating urban sustainability, methodological AI, and open science frameworks.
-</div>
 ```
 
 </div>
