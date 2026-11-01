@@ -128,222 +128,212 @@ This approach ensures traceability, transparency, and methodological consistency
 
 All publications are accompanied by open repositories, executable code, and reproducible workflows.
 
-### 🧩 Experimental Fragility in AI-Based Predictive Systems
-
 ```{=html}
-  <div class="col-md-6 col-lg-4">
-    <div class="card border-0 shadow-sm p-2 h-100">
-      <div class="card-body p-2">
-        <p class="card-text medium text-muted mb-2">
+<div class="accordion" id="publicationsAccordion">
+
+  <div class="accordion-item">
+    <div class="accordion-header" id="headingExperimentalFragility">
+      <button class="accordion-button collapsed" type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseExperimentalFragility"
+              aria-expanded="false"
+              aria-controls="collapseExperimentalFragility">
+        <strong>Experimental Fragility in AI-Based Predictive Systems</strong>&nbsp;·&nbsp;2026&nbsp;·&nbsp;AIKP 2026
+      </button>
+    </div>
+    <div id="collapseExperimentalFragility"
+         class="accordion-collapse collapse"
+         aria-labelledby="headingExperimentalFragility"
+         data-bs-parent="#publicationsAccordion">
+      <div class="accordion-body">
+        <p class="text-muted mb-2">
           Reproducible framework for evaluating Experimental Fragility, temporal validation and distribution shift in AI-based predictive systems.
         </p>
-
         <div class="d-flex flex-wrap gap-3 small">
-          <a href="https://jcaceres-academic.github.io/aikp26_experimental_fragility/" target="_blank" class="text-dark">
-            🌐 Project
-          </a>
-          <a href="#" class="text-primary">
-            📄 Article
-          </a>
-          <a href="https://jcaceres-academic.github.io/aikp26_experimental_fragility/notebook.html" target="_blank" class="text-success">
-            💻 Notebook
-          </a>
-          <a href="https://jcaceres-academic.github.io/aikp26_experimental_fragility/scripts.html" target="_blank" class="text-warning">
-            🧪 Scripts
-          </a>
-          <a href="https://github.com/jcaceres-academic/aikp26_experimental_fragility" target="_blank" class="text-secondary">
-            💾 Repository
-          </a>
+          <a href="https://jcaceres-academic.github.io/aikp26_experimental_fragility/" target="_blank" class="text-dark">🌐 Project</a>
+          <a href="https://jcaceres-academic.github.io/aikp26_experimental_fragility/notebook.html" target="_blank" class="text-success">💻 Notebook</a>
+          <a href="https://jcaceres-academic.github.io/aikp26_experimental_fragility/scripts.html" target="_blank" class="text-warning">🧪 Scripts</a>
+          <a href="https://github.com/jcaceres-academic/aikp26_experimental_fragility" target="_blank" class="text-secondary">💾 Repository</a>
+          <a href="https://doi.org/10.5281/zenodo.23844283" target="_blank">📚 Zenodo</a>
         </div>
-      </div> 
+      </div>
     </div>
   </div>
-```
 
-### 📊 Urban PM2.5 Methodology
 
-```{=html}
-  <div class="col-md-6 col-lg-4">
-    <div class="card border-0 shadow-sm p-2 h-100">
-      <div class="card-body p-2">
-        <p class="card-text medium text-muted mb-2">
-          Reproducible methodological pipeline for urban PM2.5 time series analysis (Manuscript under review. Springer Nature)
+  <div class="accordion-item">
+    <div class="accordion-header" id="headingUrbanMethodology">
+      <button class="accordion-button collapsed" type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseUrbanMethodology"
+              aria-expanded="false"
+              aria-controls="collapseUrbanMethodology">
+        <strong>Urban PM2.5 Methodology</strong>&nbsp;·&nbsp;2026&nbsp;·&nbsp;Manuscript under review · Springer Nature
+      </button>
+    </div>
+    <div id="collapseUrbanMethodology"
+         class="accordion-collapse collapse"
+         aria-labelledby="headingUrbanMethodology"
+         data-bs-parent="#publicationsAccordion">
+      <div class="accordion-body">
+        <p class="text-muted mb-2">
+          Reproducible methodological pipeline for urban PM2.5 time series analysis.
         </p>
-
         <div class="d-flex flex-wrap gap-3 small">
-          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/index.html" target="_blank" class="text-dark">
-            🌐 Project
-          </a>
-          <a href="#" class="text-primary">
-            📄 Article
-          </a>
-          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/notebook.html" target="_blank" class="text-success">
-            💻 Notebook
-          </a>
-          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/scripts.html" target="_blank" class="text-warning">
-            🧪 Scripts
-          </a>
-          <a href="https://github.com/jcaceres-academic/urban-pm25-methodology" target="_blank" class="text-secondary">
-            💾 Repository
-          </a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/index.html" target="_blank" class="text-dark">🌐 Project</a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/notebook.html" target="_blank" class="text-success">💻 Notebook</a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-methodology/scripts.html" target="_blank" class="text-warning">🧪 Scripts</a>
+          <a href="https://github.com/jcaceres-academic/urban-pm25-methodology" target="_blank" class="text-secondary">💾 Repository</a>
         </div>
-      </div> 
-    </div>
-  </div>
-```
-
-### ⚖️ Urban PM2.5 Imbalance Evaluation Framework
-
-```{=html}
-
- <div class="col-md-6 col-lg-4">
-  <div class="card border-0 shadow-sm p-2 h-100">
-    <div class="card-body p-2">
-      <p class="card-text medium text-muted mb-2">
-        Imbalance-aware classification and performance–cost trade-off analysis  
-        <em>(Manuscript under review. Delta, 2026)</em>
-      </p>
-
-      <div class="d-flex flex-wrap gap-3 small">
-        <a href="https://jcaceres-academic.github.io/urban-pm25-imbalance-evaluation/" target="_blank" class="text-dark">
-          🌐 Project
-        </a>
-        <a href="#" target="_blank" class="text-primary">
-          📄 Article
-        </a>
-        <a href="https://jcaceres-academic.github.io/urban-pm25-imbalance-evaluation/scripts.html" target="_blank" class="text-warning">
-          🧪 Scripts
-        </a>
-        <a href="https://github.com/jcaceres-academic/urban-pm25-imbalance-evaluation" target="_blank" class="text-secondary">
-          💾 Repository
-        </a>
       </div>
     </div>
   </div>
-</div>
-```
 
-### 📈 Urban PM2.5 Forecasting Framework
 
-```{=html}
-   <div class="col-md-6 col-lg-4">
-    <div class="card border-0 shadow-sm p-2 h-100">
-      <div class="card-body p-2">
-        <p class="card-text medium text-muted mb-2">
-          Reproducible forecasting framework for urban PM2.5 time series using hybrid AI models  
-          <em>(AppliedMaths, 2024)</em>
+  <div class="accordion-item">
+    <div class="accordion-header" id="headingImbalance">
+      <button class="accordion-button collapsed" type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseImbalance"
+              aria-expanded="false"
+              aria-controls="collapseImbalance">
+        <strong>Urban PM2.5 Imbalance Evaluation Framework</strong>&nbsp;·&nbsp;2026&nbsp;·&nbsp;Manuscript under review · Delta
+      </button>
+    </div>
+    <div id="collapseImbalance"
+         class="accordion-collapse collapse"
+         aria-labelledby="headingImbalance"
+         data-bs-parent="#publicationsAccordion">
+      <div class="accordion-body">
+        <p class="text-muted mb-2">
+          Imbalance-aware classification and performance–cost trade-off analysis.
         </p>
-  
         <div class="d-flex flex-wrap gap-3 small">
-          <a href="https://jcaceres-academic.github.io/urban-pm25-forecasting/" target="_blank" class="text-dark">
-            🌐 Project
-          </a>
-          <a href="https://doi.org/10.3390/appliedmath4040076" target="_blank" class="text-primary">
-            📄 Article
-          </a>
-          <a href="https://jcaceres-academic.github.io/urban-pm25-forecasting/notebooks.html" target="_blank" class="text-success">
-            💻 Notebook
-          </a>
-         <a href="https://jcaceres-academic.github.io/urban-pm25-forecasting/scripts.html" target="_blank" class="text-warning">
-          🧪 Scripts
-        </a>
-          <a href="https://github.com/jcaceres-academic/urban-pm25-forecasting" target="_blank" class="text-secondary">
-            💾 Repository
-          </a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-imbalance-evaluation/" target="_blank" class="text-dark">🌐 Project</a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-imbalance-evaluation/scripts.html" target="_blank" class="text-warning">🧪 Scripts</a>
+          <a href="https://github.com/jcaceres-academic/urban-pm25-imbalance-evaluation" target="_blank" class="text-secondary">💾 Repository</a>
         </div>
       </div>
     </div>
   </div>
-```
 
-### 🌱 Behavioural and Institutional Drivers of Green Technology Adoption
 
-```{=html}
-   <div class="col-md-6 col-lg-4">
-    <div class="card border-0 shadow-sm p-2 h-100">
-      <div class="card-body p-2">
-        <p class="card-text medium text-muted mb-2">
-          TAM-based framework for sustainability transitions  
-          <em>(Frontiers in Psychology, 2026)</em>
+  <div class="accordion-item">
+    <div class="accordion-header" id="headingForecasting">
+      <button class="accordion-button collapsed" type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseForecasting"
+              aria-expanded="false"
+              aria-controls="collapseForecasting">
+        <strong>Urban PM2.5 Forecasting Framework</strong>&nbsp;·&nbsp;2024&nbsp;·&nbsp;AppliedMaths
+      </button>
+    </div>
+    <div id="collapseForecasting"
+         class="accordion-collapse collapse"
+         aria-labelledby="headingForecasting"
+         data-bs-parent="#publicationsAccordion">
+      <div class="accordion-body">
+        <p class="text-muted mb-2">
+          Reproducible forecasting framework for urban PM2.5 time series using hybrid AI models.
         </p>
-
         <div class="d-flex flex-wrap gap-3 small">
-          <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/about.html" target="_blank" class="text-dark">
-            🌐 Project
-          </a>
-          <a href="https://doi.org/10.3389/fpsyg.2026.1723942" target="_blank" class="text-primary">
-            📄 Article
-          </a>
-          <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/scripts.html" target="_blank" class="text-warning">
-            🧪 Scripts
-          </a>
-          <a href="https://github.com/jcaceres-academic/extended-tam-green-technology" target="_blank" class="text-secondary">
-            💾 Repository
-          </a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-forecasting/" target="_blank" class="text-dark">🌐 Project</a>
+          <a href="https://doi.org/10.3390/appliedmath4040076" target="_blank" class="text-primary">📄 Article</a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-forecasting/notebooks.html" target="_blank" class="text-success">💻 Notebook</a>
+          <a href="https://jcaceres-academic.github.io/urban-pm25-forecasting/scripts.html" target="_blank" class="text-warning">🧪 Scripts</a>
+          <a href="https://github.com/jcaceres-academic/urban-pm25-forecasting" target="_blank" class="text-secondary">💾 Repository</a>
         </div>
       </div>
     </div>
   </div>
-```
 
-### 🎓 Citizen Science and STEM Education with R
 
-```{=html}
- 
-  <div class="col-md-6 col-lg-4">
-    <div class="card border-0 shadow-sm p-2 h-100">
-      <div class="card-body p-2">
-        <p class="card-text medium text-muted mb-2">
-          Reproducible AI–IoT forecasting and learning from open urban air and meteorological data  
-          <em>(Applied Sciences, 2025)</em>
+  <div class="accordion-item">
+    <div class="accordion-header" id="headingGreenTechnology">
+      <button class="accordion-button collapsed" type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseGreenTechnology"
+              aria-expanded="false"
+              aria-controls="collapseGreenTechnology">
+        <strong>Behavioural and Institutional Drivers of Green Technology Adoption</strong>&nbsp;·&nbsp;2026&nbsp;·&nbsp;Frontiers in Psychology
+      </button>
+    </div>
+    <div id="collapseGreenTechnology"
+         class="accordion-collapse collapse"
+         aria-labelledby="headingGreenTechnology"
+         data-bs-parent="#publicationsAccordion">
+      <div class="accordion-body">
+        <p class="text-muted mb-2">
+          TAM-based framework for sustainability transitions.
         </p>
-
         <div class="d-flex flex-wrap gap-3 small">
-          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/index.html" target="_blank" class="text-dark">
-            🌐 Project
-          </a>
-          <a href="https://doi.org/10.3390/app152212183" target="_blank" class="text-primary">
-            📄 Article
-          </a>
-          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/notebook.html" target="_blank" class="text-success">
-            💻 Notebook
-          </a>
-          <a href="https://github.com/jcaceres-academic/OpenUrbanAirandMeteorological" target="_blank" class="text-secondary">
-            💾 Repository
-          </a>
+          <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/about.html" target="_blank" class="text-dark">🌐 Project</a>
+          <a href="https://doi.org/10.3389/fpsyg.2026.1723942" target="_blank" class="text-primary">📄 Article</a>
+          <a href="https://jcaceres-academic.github.io/extended-tam-green-technology/scripts.html" target="_blank" class="text-warning">🧪 Scripts</a>
+          <a href="https://github.com/jcaceres-academic/extended-tam-green-technology" target="_blank" class="text-secondary">💾 Repository</a>
         </div>
       </div>
     </div>
   </div>
-```
 
-### 🧠 Quantum Computing in Data Science and STEM Education
 
-```{=html}
- <div class="col-md-6 col-lg-4">
-  <div class="card border-0 shadow-sm p-2 h-100">
-    <div class="card-body p-2">
-      <p class="card-text medium text-muted mb-2">
-        Bibliometric mapping and pedagogical analysis of quantum computing tools  
-        <em>(Computers, 2025)</em>
-      </p>
-
-      <div class="d-flex flex-wrap gap-3 small">
-        <a href="https://jcaceres-academic.github.io/quantum-computing-stem-education/index.html" target="_blank" class="text-dark">
-          🌐 Project
-        </a>
-        <a href="https://doi.org/10.3390/computers14060235" target="_blank" class="text-primary">
-          📄 Article
-        </a>
-        <a href="https://jcaceres-academic.github.io/quantum-computing-stem-education/scripts.html" target="_blank" class="text-warning">
-          🧪 Scripts
-        </a>
-        <a href="https://github.com/jcaceres-academic/quantum-computing-stem-education" target="_blank" class="text-secondary">
-          💾 Repository
-        </a>
+  <div class="accordion-item">
+    <div class="accordion-header" id="headingCitizenScience">
+      <button class="accordion-button collapsed" type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseCitizenScience"
+              aria-expanded="false"
+              aria-controls="collapseCitizenScience">
+        <strong>Citizen Science and STEM Education with R</strong>&nbsp;·&nbsp;2025&nbsp;·&nbsp;Applied Sciences
+      </button>
+    </div>
+    <div id="collapseCitizenScience"
+         class="accordion-collapse collapse"
+         aria-labelledby="headingCitizenScience"
+         data-bs-parent="#publicationsAccordion">
+      <div class="accordion-body">
+        <p class="text-muted mb-2">
+          Reproducible AI–IoT forecasting and learning from open urban air and meteorological data.
+        </p>
+        <div class="d-flex flex-wrap gap-3 small">
+          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/index.html" target="_blank" class="text-dark">🌐 Project</a>
+          <a href="https://doi.org/10.3390/app152212183" target="_blank" class="text-primary">📄 Article</a>
+          <a href="https://jcaceres-academic.github.io/OpenUrbanAirandMeteorological/notebook.html" target="_blank" class="text-success">💻 Notebook</a>
+          <a href="https://github.com/jcaceres-academic/OpenUrbanAirandMeteorological" target="_blank" class="text-secondary">💾 Repository</a>
+        </div>
       </div>
     </div>
   </div>
+
+
+  <div class="accordion-item">
+    <div class="accordion-header" id="headingQuantumEducation">
+      <button class="accordion-button collapsed" type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseQuantumEducation"
+              aria-expanded="false"
+              aria-controls="collapseQuantumEducation">
+        <strong>Quantum Computing in Data Science and STEM Education</strong>&nbsp;·&nbsp;2025&nbsp;·&nbsp;Computers
+      </button>
+    </div>
+    <div id="collapseQuantumEducation"
+         class="accordion-collapse collapse"
+         aria-labelledby="headingQuantumEducation"
+         data-bs-parent="#publicationsAccordion">
+      <div class="accordion-body">
+        <p class="text-muted mb-2">
+          Bibliometric mapping and pedagogical analysis of quantum computing tools.
+        </p>
+        <div class="d-flex flex-wrap gap-3 small">
+          <a href="https://jcaceres-academic.github.io/quantum-computing-stem-education/index.html" target="_blank" class="text-dark">🌐 Project</a>
+          <a href="https://doi.org/10.3390/computers14060235" target="_blank" class="text-primary">📄 Article</a>
+          <a href="https://jcaceres-academic.github.io/quantum-computing-stem-education/scripts.html" target="_blank" class="text-warning">🧪 Scripts</a>
+          <a href="https://github.com/jcaceres-academic/quantum-computing-stem-education" target="_blank" class="text-secondary">💾 Repository</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
 ```
 
@@ -415,6 +405,7 @@ He welcomes collaboration in:
   <li>Methodological AI evaluation</li>
   <li>Reproducible research frameworks</li>
   <li>Hybrid predictive systems</li>
+  <li>Public-sector data science and AI</li>
   <li>AI-enhanced STEM education</li>
 </ul>
 ```
