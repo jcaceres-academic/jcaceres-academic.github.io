@@ -333,6 +333,60 @@ All publications are accompanied by open repositories, executable code, and repr
       </div>
     </div>
   </div>
+  
+  
+  <div class="accordion-item">
+  <div class="accordion-header" id="headingClassicalQuantumPM25">
+    <button class="accordion-button collapsed" type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#collapseClassicalQuantumPM25"
+            aria-expanded="false"
+            aria-controls="collapseClassicalQuantumPM25">
+      <strong>Classical and Quantum PM2.5 Predictive Models</strong>&nbsp;·&nbsp;2025&nbsp;·&nbsp;Mathematics
+    </button>
+  </div>
+
+  <div id="collapseClassicalQuantumPM25"
+       class="accordion-collapse collapse"
+       aria-labelledby="headingClassicalQuantumPM25"
+       data-bs-parent="#publicationsAccordion">
+
+    <div class="accordion-body">
+
+      <p class="text-muted mb-2">
+        Mathematical and computational comparison of classical LSTM and quantum QSVM models for urban PM2.5 prediction.
+      </p>
+
+      <div class="d-flex flex-wrap gap-3 small">
+
+        <a href="https://jcaceres-academic.github.io/urban-pm25-classical-quantum/"
+           target="_blank"
+           class="text-dark">🌐 Project</a>
+
+        <a href="https://doi.org/10.3390/math13121979"
+           target="_blank"
+           class="text-primary">📄 Article</a>
+
+        <a href="https://jcaceres-academic.github.io/urban-pm25-classical-quantum/notebook.html"
+           target="_blank"
+           class="text-success">💻 Notebook</a>
+
+        <a href="https://jcaceres-academic.github.io/urban-pm25-classical-quantum/scripts.html"
+           target="_blank"
+           class="text-warning">🧪 Scripts</a>
+
+        <a href="https://github.com/jcaceres-academic/urban-pm25-classical-quantum"
+           target="_blank"
+           class="text-secondary">💾 Repository</a>
+
+        <a href="https://doi.org/10.5281/zenodo.23880802"
+           target="_blank"
+           class="text-info">📚 Zenodo</a>
+
+      </div>
+    </div>
+  </div>
+</div>
 
 </div>
 ```
